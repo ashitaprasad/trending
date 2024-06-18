@@ -227,73 +227,73 @@ c++,monthly,https://github.com/leejet/stable-diffusion.cpp,"2,835",Stable Diffus
 c++,monthly,https://github.com/microsoft/onnxruntime,"13,248","ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
 c++,monthly,https://github.com/geode-sdk/geode,585,The ultimate Geometry Dash modding framework
 c++,monthly,https://github.com/idaholab/moose,"1,637",Multiphysics Object Oriented Simulation Environment
-c%23,daily,https://github.com/Stability-AI/StableSwarmUI,"3,516","StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility."
-c%23,daily,https://github.com/2dust/v2rayN,"63,267","A GUI client for Windows, support Xray core and v2fly core and others"
-c%23,daily,https://github.com/AssetRipper/AssetRipper,"3,319","GUI Application to work with engine assets, asset bundles, and serialized files"
-c%23,daily,https://github.com/Flow-Launcher/Flow.Launcher,"7,000",🔍 Quick file search & app launcher for Windows with community-made plugins
-c%23,daily,https://github.com/Ryujinx/Ryujinx,"33,106",Experimental Nintendo Switch Emulator written in C#
-c%23,daily,https://github.com/TechnitiumSoftware/DnsServer,"3,785",Technitium DNS Server
-c%23,daily,https://github.com/ppy/osu,"14,599",rhythm is just a *click* away!
-c%23,daily,https://github.com/space-wizards/space-station-14,"2,083",A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.
-c%23,daily,https://github.com/BartoszCichecki/LenovoLegionToolkit,"4,472",Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
-c%23,daily,https://github.com/BornToBeRoot/NETworkManager,"5,253",A powerful tool for managing networks and troubleshoot network problems!
-c%23,daily,https://github.com/sim0n00ps/OF-DL,528,C# console app to download all of the media from Onlyfans accounts with DRM video downloading support
-c%23,daily,https://github.com/notscuffed/repkg,"1,867",Wallpaper engine PKG extractor/TEX to image converter
-c%23,daily,https://github.com/BeyondDimension/SteamTools,"18,601",🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-c%23,daily,https://github.com/lepoco/wpfui,"6,885","WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly."
-c%23,daily,https://github.com/Radarr/Radarr,"9,435",Movie organizer/manager for usenet and torrent users.
-c%23,daily,https://github.com/MonoGame/MonoGame,"11,013",One framework for creating powerful cross-platform games.
-c%23,daily,https://github.com/jellyfin/jellyfin,"31,278",The Free Software Media System
-c%23,daily,https://github.com/atom0s/Steamless,"2,875",Steamless is a DRM remover of the SteamStub variants. The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.
-c%23,daily,https://github.com/builtbybel/Winpilot,"4,671",The manic cousin of Microsoft Copilot
-c%23,daily,https://github.com/bbepis/XUnity.AutoTranslator,"1,673",
-c%23,weekly,https://github.com/Stability-AI/StableSwarmUI,"3,516","StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility."
-c%23,weekly,https://github.com/sim0n00ps/OF-DL,528,C# console app to download all of the media from Onlyfans accounts with DRM video downloading support
-c%23,weekly,https://github.com/AvaloniaUI/Avalonia,"24,386","Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology"
-c%23,weekly,https://github.com/2dust/v2rayN,"63,267","A GUI client for Windows, support Xray core and v2fly core and others"
-c%23,weekly,https://github.com/Kyome22/RunCat_for_windows,"6,197",A cute running cat animation on your windows taskbar.
-c%23,weekly,https://github.com/space-wizards/space-station-14,"2,083",A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.
-c%23,weekly,https://github.com/d2phap/ImageGlass,"6,971","🏞 A lightweight, versatile image viewer"
-c%23,weekly,https://github.com/dotnet/eShop,"4,481",A reference .NET application implementing an eCommerce site
-c%23,weekly,https://github.com/BornToBeRoot/NETworkManager,"5,253",A powerful tool for managing networks and troubleshoot network problems!
-c%23,weekly,https://github.com/lepoco/wpfui,"6,885","WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly."
-c%23,weekly,https://github.com/Azure/azure-sdk-for-net,"5,114",This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs athttps://learn.microsoft.com/dotnet/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-net.
-c%23,weekly,https://github.com/App-vNext/Polly,"13,090","Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+."
-c%23,weekly,https://github.com/bitwarden/server,"14,597","The core infrastructure backend (API, database, Docker, etc)."
-c%23,weekly,https://github.com/huiyadanli/RevokeMsgPatcher,"26,914",A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-c%23,weekly,https://github.com/Cysharp/UniTask,"7,529",Provides an efficient allocation free async/await integration for Unity.
-c%23,weekly,https://github.com/Perfare/Il2CppDumper,"6,577",Unity il2cpp reverse engineer
-c%23,weekly,https://github.com/QuestPDF/QuestPDF,"10,936","QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices, exports, etc."
-c%23,weekly,https://github.com/dotnet/aspnetcore,"34,677","ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
-c%23,weekly,https://github.com/Jackett/Jackett,"11,546",API Support for your favorite torrent trackers
-c%23,weekly,https://github.com/EventStore/EventStore,"5,147","EventStoreDB, the event-native database. Designed for Event Sourcing, Event-Driven, and Microservices architectures"
-c%23,weekly,https://github.com/cefsharp/CefSharp,"9,729",.NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
-c%23,weekly,https://github.com/pizzaboxer/bloxstrap,"1,350",An alternative bootstrapper for Roblox with a bunch of extra features.
-c%23,weekly,https://github.com/MassTransit/MassTransit,"6,651",Distributed Application Framework for .NET
-c%23,weekly,https://github.com/nomi-san/parsec-vdd,"1,404",✨ Perfect 4K@240Hz Virtual Display
-c%23,monthly,https://github.com/Stability-AI/StableSwarmUI,"3,516","StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility."
-c%23,monthly,https://github.com/dotnet/aspire,"3,280","An opinionated, cloud ready stack for building observable, production ready, distributed applications in .NET"
-c%23,monthly,https://github.com/2dust/v2rayN,"63,267","A GUI client for Windows, support Xray core and v2fly core and others"
-c%23,monthly,https://github.com/microsoft/PowerToys,"106,503",Windows system utilities to maximize productivity
-c%23,monthly,https://github.com/dotnet/eShop,"4,481",A reference .NET application implementing an eCommerce site
-c%23,monthly,https://github.com/space-wizards/space-station-14,"2,083",A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.
-c%23,monthly,https://github.com/fullstackhero/dotnet-starter-kit,"4,318","Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included."
-c%23,monthly,https://github.com/dotnet/aspire-samples,519,
-c%23,monthly,https://github.com/dotnet/runtime,"14,435",".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps."
-c%23,monthly,https://github.com/LykosAI/StabilityMatrix,"3,173",Multi-Platform Package Manager for Stable Diffusion
-c%23,monthly,https://github.com/dotnet/csharplang,"11,055",The official repo for the design of the C# programming language
-c%23,monthly,https://github.com/Cysharp/R3,"1,650",The new future of dotnet/reactive and UniRx.
-c%23,monthly,https://github.com/Klocman/Bulk-Crap-Uninstaller,"10,245",Remove large amounts of unwanted applications quickly.
-c%23,monthly,https://github.com/BornToBeRoot/NETworkManager,"5,253",A powerful tool for managing networks and troubleshoot network problems!
-c%23,monthly,https://github.com/umbraco/Umbraco-CMS,"4,352",Umbraco is a free and open source .NET content management system helping you deliver delightful digital experiences.
-c%23,monthly,https://github.com/nomi-san/parsec-vdd,"1,404",✨ Perfect 4K@240Hz Virtual Display
-c%23,monthly,https://github.com/YSGStudyHards/DotNetGuide,"5,490",🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、常见面试题、面试须知、简历模板、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。
-c%23,monthly,https://github.com/mob-sakai/ParticleEffectForUGUI,"4,013","Render particle effect in UnityUI(uGUI). Maskable, sortable, and no extra Camera/RenderTexture/Canvas."
-c%23,monthly,https://github.com/microsoft/semantic-kernel,"19,066",Integrate cutting-edge LLM technology quickly and easily into your apps
-c%23,monthly,https://github.com/lepoco/wpfui,"6,885","WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly."
-c%23,monthly,https://github.com/shaked6540/YoutubePlaylistDownloader,"1,181","A tool to download whole playlists, channels or single videos from youtube and also optionally convert them to almost any format you would like"
-c%23,monthly,https://github.com/ppy/osu,"14,599",rhythm is just a *click* away!
-c%23,monthly,https://github.com/AvaloniaUI/Avalonia,"24,386","Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology"
+c#,daily,https://github.com/Stability-AI/StableSwarmUI,"3,516","StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility."
+c#,daily,https://github.com/2dust/v2rayN,"63,267","A GUI client for Windows, support Xray core and v2fly core and others"
+c#,daily,https://github.com/AssetRipper/AssetRipper,"3,319","GUI Application to work with engine assets, asset bundles, and serialized files"
+c#,daily,https://github.com/Flow-Launcher/Flow.Launcher,"7,000",🔍 Quick file search & app launcher for Windows with community-made plugins
+c#,daily,https://github.com/Ryujinx/Ryujinx,"33,106",Experimental Nintendo Switch Emulator written in C#
+c#,daily,https://github.com/TechnitiumSoftware/DnsServer,"3,785",Technitium DNS Server
+c#,daily,https://github.com/ppy/osu,"14,599",rhythm is just a *click* away!
+c#,daily,https://github.com/space-wizards/space-station-14,"2,083",A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.
+c#,daily,https://github.com/BartoszCichecki/LenovoLegionToolkit,"4,472",Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
+c#,daily,https://github.com/BornToBeRoot/NETworkManager,"5,253",A powerful tool for managing networks and troubleshoot network problems!
+c#,daily,https://github.com/sim0n00ps/OF-DL,528,C# console app to download all of the media from Onlyfans accounts with DRM video downloading support
+c#,daily,https://github.com/notscuffed/repkg,"1,867",Wallpaper engine PKG extractor/TEX to image converter
+c#,daily,https://github.com/BeyondDimension/SteamTools,"18,601",🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+c#,daily,https://github.com/lepoco/wpfui,"6,885","WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly."
+c#,daily,https://github.com/Radarr/Radarr,"9,435",Movie organizer/manager for usenet and torrent users.
+c#,daily,https://github.com/MonoGame/MonoGame,"11,013",One framework for creating powerful cross-platform games.
+c#,daily,https://github.com/jellyfin/jellyfin,"31,278",The Free Software Media System
+c#,daily,https://github.com/atom0s/Steamless,"2,875",Steamless is a DRM remover of the SteamStub variants. The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.
+c#,daily,https://github.com/builtbybel/Winpilot,"4,671",The manic cousin of Microsoft Copilot
+c#,daily,https://github.com/bbepis/XUnity.AutoTranslator,"1,673",
+c#,weekly,https://github.com/Stability-AI/StableSwarmUI,"3,516","StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility."
+c#,weekly,https://github.com/sim0n00ps/OF-DL,528,C# console app to download all of the media from Onlyfans accounts with DRM video downloading support
+c#,weekly,https://github.com/AvaloniaUI/Avalonia,"24,386","Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology"
+c#,weekly,https://github.com/2dust/v2rayN,"63,267","A GUI client for Windows, support Xray core and v2fly core and others"
+c#,weekly,https://github.com/Kyome22/RunCat_for_windows,"6,197",A cute running cat animation on your windows taskbar.
+c#,weekly,https://github.com/space-wizards/space-station-14,"2,083",A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.
+c#,weekly,https://github.com/d2phap/ImageGlass,"6,971","🏞 A lightweight, versatile image viewer"
+c#,weekly,https://github.com/dotnet/eShop,"4,481",A reference .NET application implementing an eCommerce site
+c#,weekly,https://github.com/BornToBeRoot/NETworkManager,"5,253",A powerful tool for managing networks and troubleshoot network problems!
+c#,weekly,https://github.com/lepoco/wpfui,"6,885","WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly."
+c#,weekly,https://github.com/Azure/azure-sdk-for-net,"5,114",This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs athttps://learn.microsoft.com/dotnet/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-net.
+c#,weekly,https://github.com/App-vNext/Polly,"13,090","Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+."
+c#,weekly,https://github.com/bitwarden/server,"14,597","The core infrastructure backend (API, database, Docker, etc)."
+c#,weekly,https://github.com/huiyadanli/RevokeMsgPatcher,"26,914",A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+c#,weekly,https://github.com/Cysharp/UniTask,"7,529",Provides an efficient allocation free async/await integration for Unity.
+c#,weekly,https://github.com/Perfare/Il2CppDumper,"6,577",Unity il2cpp reverse engineer
+c#,weekly,https://github.com/QuestPDF/QuestPDF,"10,936","QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices, exports, etc."
+c#,weekly,https://github.com/dotnet/aspnetcore,"34,677","ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
+c#,weekly,https://github.com/Jackett/Jackett,"11,546",API Support for your favorite torrent trackers
+c#,weekly,https://github.com/EventStore/EventStore,"5,147","EventStoreDB, the event-native database. Designed for Event Sourcing, Event-Driven, and Microservices architectures"
+c#,weekly,https://github.com/cefsharp/CefSharp,"9,729",.NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
+c#,weekly,https://github.com/pizzaboxer/bloxstrap,"1,350",An alternative bootstrapper for Roblox with a bunch of extra features.
+c#,weekly,https://github.com/MassTransit/MassTransit,"6,651",Distributed Application Framework for .NET
+c#,weekly,https://github.com/nomi-san/parsec-vdd,"1,404",✨ Perfect 4K@240Hz Virtual Display
+c#,monthly,https://github.com/Stability-AI/StableSwarmUI,"3,516","StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility."
+c#,monthly,https://github.com/dotnet/aspire,"3,280","An opinionated, cloud ready stack for building observable, production ready, distributed applications in .NET"
+c#,monthly,https://github.com/2dust/v2rayN,"63,267","A GUI client for Windows, support Xray core and v2fly core and others"
+c#,monthly,https://github.com/microsoft/PowerToys,"106,503",Windows system utilities to maximize productivity
+c#,monthly,https://github.com/dotnet/eShop,"4,481",A reference .NET application implementing an eCommerce site
+c#,monthly,https://github.com/space-wizards/space-station-14,"2,083",A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.
+c#,monthly,https://github.com/fullstackhero/dotnet-starter-kit,"4,318","Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included."
+c#,monthly,https://github.com/dotnet/aspire-samples,519,
+c#,monthly,https://github.com/dotnet/runtime,"14,435",".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps."
+c#,monthly,https://github.com/LykosAI/StabilityMatrix,"3,173",Multi-Platform Package Manager for Stable Diffusion
+c#,monthly,https://github.com/dotnet/csharplang,"11,055",The official repo for the design of the C# programming language
+c#,monthly,https://github.com/Cysharp/R3,"1,650",The new future of dotnet/reactive and UniRx.
+c#,monthly,https://github.com/Klocman/Bulk-Crap-Uninstaller,"10,245",Remove large amounts of unwanted applications quickly.
+c#,monthly,https://github.com/BornToBeRoot/NETworkManager,"5,253",A powerful tool for managing networks and troubleshoot network problems!
+c#,monthly,https://github.com/umbraco/Umbraco-CMS,"4,352",Umbraco is a free and open source .NET content management system helping you deliver delightful digital experiences.
+c#,monthly,https://github.com/nomi-san/parsec-vdd,"1,404",✨ Perfect 4K@240Hz Virtual Display
+c#,monthly,https://github.com/YSGStudyHards/DotNetGuide,"5,490",🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、常见面试题、面试须知、简历模板、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。
+c#,monthly,https://github.com/mob-sakai/ParticleEffectForUGUI,"4,013","Render particle effect in UnityUI(uGUI). Maskable, sortable, and no extra Camera/RenderTexture/Canvas."
+c#,monthly,https://github.com/microsoft/semantic-kernel,"19,066",Integrate cutting-edge LLM technology quickly and easily into your apps
+c#,monthly,https://github.com/lepoco/wpfui,"6,885","WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly."
+c#,monthly,https://github.com/shaked6540/YoutubePlaylistDownloader,"1,181","A tool to download whole playlists, channels or single videos from youtube and also optionally convert them to almost any format you would like"
+c#,monthly,https://github.com/ppy/osu,"14,599",rhythm is just a *click* away!
+c#,monthly,https://github.com/AvaloniaUI/Avalonia,"24,386","Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology"
 c,daily,https://github.com/obsproject/obs-studio,"56,601",OBS Studio - Free and open source software for live streaming and screen recording
 c,daily,https://github.com/coolsnowwolf/lede,"29,021",Lean's LEDE source
 c,daily,https://github.com/raysan5/raylib,"20,107",A simple and easy-to-use library to enjoy videogames programming
