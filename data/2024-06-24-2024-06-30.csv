@@ -1,0 +1,992 @@
+url,stars,description
+https://github.com/lobehub/lobe-chat,"33,661","🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application."
+https://github.com/SagerNet/sing-box,"15,156",The universal proxy platform
+https://github.com/practical-tutorials/project-based-learning,"178,890",Curated list of project-based tutorials
+https://github.com/apple/swift-embedded-examples,505,A collection of example projects using Embedded Swift
+https://github.com/lllyasviel/stable-diffusion-webui-forge,"5,214",
+https://github.com/lllyasviel/Fooocus,"37,653",Focus on prompting and generating
+https://github.com/microsoft/unilm,"19,012","Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities"
+https://github.com/NVIDIA/warp,"3,440",A Python framework for high performance GPU simulation and graphics
+https://github.com/Anjok07/ultimatevocalremovergui,"16,342",GUI for a Vocal Remover that uses Deep Neural Networks.
+https://github.com/pytorch/pytorch,"79,810",Tensors and Dynamic neural networks in Python with strong GPU acceleration
+https://github.com/google/mesop,"3,793",Build delightful web apps quickly in Python
+https://github.com/VikParuchuri/surya,"8,853","OCR, layout analysis, reading order, line detection in 90+ languages"
+https://github.com/openwrt/openwrt,"18,817",This repository is a mirror ofhttps://git.openwrt.org/openwrt/openwrt.gitIt is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+https://github.com/reactos/reactos,"14,214",A free Windows-compatible Operating System
+https://github.com/RfidResearchGroup/proxmark3,"3,600",Iceman Fork - Proxmark3
+https://github.com/glfw/glfw,"12,485","A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input"
+https://github.com/OpenMathLib/OpenBLAS,"6,110",OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
+https://github.com/raspberrypi/pico-sdk,"3,224",
+https://github.com/webui-dev/webui,"2,320","Use any web browser or WebView as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib."
+https://github.com/mit-pdos/xv6-public,"7,546",xv6 OS
+https://github.com/unicorn-engine/unicorn,"7,306","Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)"
+https://github.com/php/php-src,"37,531",The PHP Interpreter
+https://github.com/HarbourMasters/Shipwright,"2,978",
+https://github.com/qbittorrent/qBittorrent,"25,801",qBittorrent BitTorrent client
+https://github.com/nomic-ai/gpt4all,"66,026",GPT4All: Chat with Local LLMs on Any Device
+https://github.com/official-stockfish/Stockfish,"10,801",A free and strong UCI chess engine
+https://github.com/SFML/SFML,"9,777",Simple and Fast Multimedia Library
+https://github.com/mudler/LocalAI,"21,386","🤖 The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities."
+https://github.com/soulsmods/ModEngine2,724,Runtime injection library for modding Souls games. WIP
+https://github.com/SerenityOS/serenity,"29,281",The Serenity Operating System 🐞
+https://github.com/ethereum/solidity,"22,625","Solidity, the Smart Contract Programming Language"
+https://github.com/google/highway,"3,921","Performance-portable, length-agnostic SIMD with runtime dispatch"
+https://github.com/risc0/risc0,"1,535",RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.
+https://github.com/Atmosphere-NX/Atmosphere,"14,013",Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
+https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series,"3,111",This repo is creating providing students easy access to all the programs taught under Codehelp's DSA Busted Series.
+https://github.com/ceph/ceph,"13,453","Ceph is a distributed object, block, and file storage platform"
+https://github.com/awslabs/aws-lambda-web-adapter,"1,561",Run web applications on AWS Lambda
+https://github.com/wasmerio/wasmer,"18,157","🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten"
+https://github.com/rust-lang/rustlings,"50,823",🦀 Small exercises to get you used to reading and writing Rust code!
+https://github.com/bytecodealliance/wasmtime,"14,772",A fast and secure runtime for WebAssembly
+https://github.com/firecracker-microvm/firecracker,"24,442",Secure and fast microVMs for serverless computing.
+https://github.com/zellij-org/zellij,"19,206",A terminal workspace with batteries included
+https://github.com/mulaRahul/keyviz,"5,098",Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
+https://github.com/maplibre/flutter-maplibre-gl,182,"Customizable, performant and vendor-free vector and raster maps, flutter wrapper for maplibre-native and maplibre-gl-js (fork of flutter-mapbox-gl/maps)"
+https://github.com/Notsfsssf/pixez-flutter,"6,755",一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
+https://github.com/mylxsw/aidea,"6,252",AIdea 是一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
+https://github.com/toly1994328/FlutterUnit,"7,538","【Flutter 集录指南 App】The unity of flutter, The unity of coder."
+https://github.com/DavBfr/dart_pdf,"1,355",Pdf creation module for dart/flutter
+https://github.com/Prowlarr/Prowlarr,"3,656",
+https://github.com/Orbmu2k/nvidiaProfileInspector,"3,319",
+https://github.com/Flow-Launcher/Flow.Launcher,"7,081",🔍 Quick file search & app launcher for Windows with community-made plugins
+https://github.com/pizzaboxer/bloxstrap,"1,368",An alternative bootstrapper for Roblox with a bunch of extra features.
+https://github.com/AvaloniaUI/Avalonia.Samples,493,Avalonia.Samples aims to provide some minimal samples focusing on a particular issue at a time. This should help getting new users started.
+https://github.com/nilaoda/N_m3u8DL-CLI,"13,768","[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported."
+https://github.com/anuraghazra/github-readme-stats,"66,236",⚡ Dynamically generated stats for your github readmes
+https://github.com/end-4/dots-hyprland,"2,982","Modern, feature-rich and accessible desktop configuration."
+https://github.com/lucide-icons/lucide,"9,379",Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+https://github.com/saadpasta/developerFolio,"5,137",🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
+https://github.com/fent/node-ytdl-core,"4,383",YouTube video downloader in javascript.
+https://github.com/zadam/trilium,"26,045",Build your personal knowledge base with Trilium Notes
+https://github.com/FortAwesome/Font-Awesome,"73,261","The iconic SVG, font, and CSS toolkit"
+https://github.com/MrXujiang/h5-Dooring,"8,742","H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks. | 让H5制作像搭积木一样简单, 轻松搭建H5页面, H5网站, PC端网站,LowCode平台."
+https://github.com/jagenjo/litegraph.js,"5,566","A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently."
+https://github.com/nextcloud/android,"4,017",📱 Nextcloud Android app
+https://github.com/FCL-Team/FoldCraftLauncher,960,"Fold Craft Launcher, an Android Minecraft : Java Edition launcher."
+https://github.com/DrKLO/Telegram,"24,015",Telegram for Android source
+https://github.com/AntennaPod/AntennaPod,"6,016",A podcast manager for Android
+https://github.com/spring-projects/spring-modulith,697,Modular applications with Spring Boot
+https://github.com/YunaiV/ruoyi-vue-pro,"25,384",🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+https://github.com/questdb/questdb,"13,977",QuestDB is an open source time-series database for fast ingest and SQL queries
+https://github.com/neo4j/neo4j,"12,727",Graphs for Everyone
+https://github.com/jwasham/coding-interview-university,"297,043",A complete computer science study plan to become a software engineer.
+https://github.com/typescript-eslint/typescript-eslint,"14,798",✨ Monorepo for all the tooling which enables ESLint to support TypeScript
+https://github.com/amplication/amplication,"14,555",🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
+https://github.com/bitwarden/android,"5,789",Bitwarden mobile app for Android.
+https://github.com/pocketbase/pocketbase,"35,671",Open Source realtime backend in 1 file
+https://github.com/hiyouga/LLaMA-Factory,"24,983",Unify Efficient Fine-Tuning of 100+ LLMs
+https://github.com/phidatahq/phidata,"10,286","Build AI Assistants with memory, knowledge and tools."
+https://github.com/mindsdb/mindsdb,"22,358",The platform for building AI from enterprise data
+https://github.com/google/google-ctf,"4,379",Google CTF
+https://github.com/microsoft/table-transformer,"1,964",Table Transformer (TATR) is a deep learning model for extracting tables from unstructured documents (PDFs and images). This is also the official repository for the PubTables-1M dataset and GriTS evaluation metric.
+https://github.com/OpenBB-finance/OpenBBTerminal,"26,435","Investment Research for Everyone, Everywhere."
+https://github.com/cluic/wxauto,"1,750",Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，简单微信机器人
+https://github.com/google/flax,"5,753",Flax is a neural network library for JAX that is designed for flexibility.
+https://github.com/elebumm/RedditVideoMakerBot,"6,341",Create Reddit Videos with just✨ one command ✨
+https://github.com/MervinPraison/PraisonAI,906,"PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration."
+https://github.com/vllm-project/vllm,"21,594",A high-throughput and memory-efficient inference and serving engine for LLMs
+https://github.com/khoj-ai/khoj,"11,803","Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp."
+https://github.com/eclipse-cyclonedds/cyclonedds,793,Eclipse Cyclone DDS project
+https://github.com/haproxy/haproxy,"4,615",HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
+https://github.com/guanzhi/GmSSL,"4,889",支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱
+https://github.com/bol-van/zapret,"2,661",DPI bypass multi platform
+https://github.com/SecWiki/windows-kernel-exploits,"7,902",windows-kernel-exploits Windows平台提权漏洞集合
+https://github.com/OnionUI/Onion,"3,151",OS overhaul for Miyoo Mini and Mini+
+https://github.com/wechat-miniprogram/minigame-unity-webgl-transform,"2,757",Wechat Mini Game Unity engine adapter documents.
+https://github.com/tporadowski/redis,"8,652","Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows."
+https://github.com/tianocore/edk2,"4,353",EDK II
+https://github.com/ufrisk/pcileech,"4,514",Direct Memory Access (DMA) Attack Software
+https://github.com/immortalwrt/immortalwrt,"4,932",An opensource OpenWrt variant for mainland China users.
+https://github.com/Cyan4973/xxHash,"8,681",Extremely fast non-cryptographic hash algorithm
+https://github.com/Light-City/CPlusPlusThings,"37,904",C++那些事
+https://github.com/maplibre/maplibre-native,859,"MapLibre Native - Interactive vector tile maps for iOS, Android and other platforms."
+https://github.com/swoole/swoole-src,"18,308",🚀 Coroutine-based concurrency library for PHP
+https://github.com/microsoft/LightGBM,"16,310","A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks."
+https://github.com/stack-of-tasks/pinocchio,"1,632",A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives
+https://github.com/jrouwe/JoltPhysics,"5,871",A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West.
+https://github.com/li-plus/chatglm.cpp,"2,778",C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & GLM4
+https://github.com/opencv/opencv,"76,650",Open Source Computer Vision Library
+https://github.com/wxWidgets/wxWidgets,"5,877",Cross-Platform C++ GUI Library
+https://github.com/SJTU-IPADS/PowerInfer,"7,555",High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
+https://github.com/coral-xyz/anchor,"3,345",⚓ Solana Sealevel Framework
+https://github.com/apollographql/router,773,"A configurable, high-performance routing runtime for Apollo Federation 🚀"
+https://github.com/tauri-apps/tauri,"79,277","Build smaller, faster, and more secure desktop applications with a web frontend."
+https://github.com/shell-pool/shpool,"1,007","Think tmux, then aim... lower"
+https://github.com/surrealdb/surrealdb,"26,063","A scalable, distributed, collaborative, document-graph database, for the realtime web"
+https://github.com/tikv/tikv,"14,699","Distributed transactional key-value database, originally created to complement TiDB"
+https://github.com/rust-lang/cargo,"12,230",The Rust package manager
+https://github.com/BloopAI/bloop,"9,277",bloop is a fast code search engine written in Rust.
+https://github.com/sigp/lighthouse,"2,805",Ethereum consensus client in Rust
+https://github.com/isar/hive,"3,934",Lightweight and blazing fast key-value database written in pure Dart.
+https://github.com/fluttercommunity/plus_plugins,"1,498",Flutter Community Plus Plugins
+https://github.com/stride3d/stride,"6,317",Stride Game Engine (formerly Xenko)
+https://github.com/sharpbrowser/SharpBrowser,796,A full featured web-browser built using C# and CefSharp
+https://github.com/microsoft/reverse-proxy,"8,243",A toolkit for developing high-performance HTTP reverse proxy applications.
+https://github.com/ZiggyCreatures/FusionCache,"1,506","FusionCache is an easy to use, fast and robust cache with advanced resiliency features and an optional distributed 2nd level."
+https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit,"14,807","Google's Material Design in XAML & WPF, for C# & VB.Net."
+https://github.com/lisongkun/HyggeImaotai,641,"i茅台app接口自动化csharp wpf实现,挂机windows服务器每日自动预约, (╯°□°）╯︵ ┻━┻ 预约启动！"
+https://github.com/Scighost/Starward,"3,163",Game Launcher for miHoYo - 米家游戏启动器
+https://github.com/MassTransit/MassTransit,"6,678",Distributed Application Framework for .NET
+https://github.com/openiddict/openiddict-core,"4,192",Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET
+https://github.com/huiyadanli/RevokeMsgPatcher,"27,070",A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+https://github.com/Radarr/Radarr,"9,474",Movie organizer/manager for usenet and torrent users.
+https://github.com/LykosAI/StabilityMatrix,"3,238",Multi-Platform Package Manager for Stable Diffusion
+https://github.com/louislam/uptime-kuma,"51,881",A fancy self-hosted monitoring tool
+https://github.com/qishibo/AnotherRedisDesktopManager,"29,587","🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac."
+https://github.com/ethereumbook/ethereumbook,"19,484","Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood"
+https://github.com/jellyfin/jellyfin-web,"2,158",Web Client for Jellyfin
+https://github.com/axios/axios,"104,504",Promise based HTTP client for the browser and node.js
+https://github.com/twbs/bootstrap,"167,939","The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
+https://github.com/Blankj/AndroidUtilCode,"33,071",🔥 Android developers should collect the following utils(updating).
+https://github.com/apache/kafka,"27,770",Mirror of Apache Kafka
+https://github.com/debezium/debezium,"10,109",Change data capture for a variety of databases. Please log issues athttps://issues.redhat.com/browse/DBZ.
+https://github.com/xwiki/xwiki-platform,949,The XWiki platform
+https://github.com/apache/maven-mvnd,"2,835",Apache Maven Daemon
+https://github.com/brettwooldridge/HikariCP,"19,602","光 HikariCP・A solid, high-performance, JDBC connection pool at last."
+https://github.com/mockito/mockito,"14,680",Most popular Mocking framework for unit tests written in Java
+https://github.com/infinilabs/analysis-ik,"16,263","🚌 The IK Analysis plugin integrates Lucene IK analyzer into Elasticsearch and OpenSearch, support customized dictionary."
+https://github.com/spring-projects/spring-security,"8,543",Spring Security
+https://github.com/alibaba/easyexcel,"31,361",快速、简洁、解决大文件内存溢出的java处理Excel工具
+https://github.com/jenkinsci/jenkins,"22,637",Jenkins automation server
+https://github.com/skylot/jadx,"39,877",Dex to Java decompiler
+https://github.com/datahub-project/datahub,"9,406",The Metadata Platform for your Data Stack
+https://github.com/material-components/material-components-android,"16,069",Modular and customizable Material Design UI components for Android
+https://github.com/Anuken/Mindustry,"21,552",The automation tower defense RTS
+https://github.com/HarbourMasters/2ship2harkinian,606,
+https://github.com/nmap/nmap,"9,549",Nmap - the Network Mapper. Github mirror of official SVN repository.
+https://github.com/alibaba/MNN,"8,429","MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba"
+https://github.com/apache/brpc,"16,013","brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. ""brpc"" means ""better RPC""."
+https://github.com/zeux/meshoptimizer,"5,276",Mesh optimization library that makes meshes smaller and faster to render
+https://github.com/transmission/transmission,"11,668",Official Transmission BitTorrent client repository
+https://github.com/CLIUtils/CLI11,"3,172",CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
+https://github.com/NVIDIA/cutlass,"4,800",CUDA Templates for Linear Algebra Subroutines
+https://github.com/qinguoyi/TinyWebServer,"15,727",🔥 Linux下C++轻量级WebServer服务器
+https://github.com/simdjson/simdjson,"18,741","Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks"
+https://github.com/quickwit-oss/tantivy,"11,260",Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+https://github.com/cloudflare/pingora,"20,163","A library for building fast, reliable and evolvable network services."
+https://github.com/apache/datafusion-comet,638,Apache DataFusion Comet Spark Accelerator
+https://github.com/godot-rust/gdext,"2,688",Rust bindings for Godot 4
+https://github.com/google/comprehensive-rust,"26,642",This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+https://github.com/martinvonz/jj,"7,084",A Git-compatible VCS that is both simple and powerful
+https://github.com/rustdesk/rustdesk-server,"5,903",RustDesk Server Program
+https://github.com/risingwavelabs/risingwave,"6,553","SQL stream processing, analytics, and management. We decouple storage and compute to offer instant failover, dynamic scaling, speedy bootstrapping, and efficient joins."
+https://github.com/microsoft/sudo,"4,787","It's sudo, for Windows"
+https://github.com/rust-lang/rust-analyzer,"13,769",A Rust compiler front-end for IDEs
+https://github.com/miguelpruivo/flutter_file_picker,"1,276","File picker plugin for Flutter, compatible with mobile (iOS & Android), Web, Desktop (Mac, Linux, Windows) platforms with Flutter Go support."
+https://github.com/leancodepl/patrol,809,Flutter-first UI testing framework. Ready for action!
+https://github.com/ryanheise/just_audio,"1,007",Audio Player
+https://github.com/fluttercommunity/flutter_workmanager,821,A Flutter plugin which allows you to execute code in the background on Android and iOS.
+https://github.com/bdlukaa/fluent_ui,"2,779",Implements Microsoft's WinUI3 in Flutter.
+https://github.com/juliansteenbakker/mobile_scanner,769,A universal scanner for Flutter based on MLKit. Uses CameraX on Android and AVFoundation on iOS.
+https://github.com/wgh136/PicaComic,"3,678","A comic app built with Flutter, supporting multiple comic sources."
+https://github.com/restsharp/RestSharp,"9,502",Simple REST and HTTP API Client for .NET
+https://github.com/Unity-Technologies/EntityComponentSystemSamples,"6,936",
+https://github.com/dnSpy/dnSpy,"25,931",.NET debugger and assembly editor
+https://github.com/JamesNK/Newtonsoft.Json,"10,613",Json.NET is a popular high-performance JSON framework for .NET
+https://github.com/mono/SkiaSharp,"4,224","SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images."
+https://github.com/unoplatform/uno,"8,540","Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported."
+https://github.com/34736384/genshin-fps-unlock,"2,477",unlocks the 60 fps cap
+https://github.com/glzr-io/glazewm,"3,919",GlazeWM is a tiling window manager for Windows inspired by i3 and Polybar.
+https://github.com/amantinband/clean-architecture,"1,328",The ultimate clean architecture template for .NET applications 💪
+https://github.com/Unity-Technologies/ml-agents,"16,580",The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
+https://github.com/Cysharp/R3,"1,683",The new future of dotnet/reactive and UniRx.
+https://github.com/HeyPuter/puter,"20,571","🌐 The Web OS! Free, Open-Source, and Self-Hostable."
+https://github.com/denysdovhan/wtfjs,"34,481",🤪 A list of funny and tricky JavaScript examples
+https://github.com/rolling-scopes-school/tasks,"3,274",
+https://github.com/MobSF/Mobile-Security-Framework-MobSF,"16,614","Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis."
+https://github.com/SBoudrias/Inquirer.js,"19,604",A collection of common interactive command line user interfaces.
+https://github.com/jhuckaby/performa,299,A multi-server monitoring system with a web based UI.
+https://github.com/pot-app/pot-desktop,"9,034",🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
+https://github.com/leonardomso/33-js-concepts,"62,560",📜 33 JavaScript concepts every developer should know.
+https://github.com/IsmaelMartinez/teams-for-linux,"2,581",Unofficial Microsoft Teams for Linux client
+https://github.com/Dooy/chatgpt-web-midjourney-proxy,"3,940","One UI is all done with chatgpt web, midjourney, gpts,suno-v3,luma ; Simultaneous support Web / PWA / Linux / Win / MacOS platform"
+https://github.com/brave/brave-browser,"16,938","Brave browser for Android, iOS, Linux, macOS, Windows."
+https://github.com/3Kmfi6HP/EDtunnel,"6,146",Use Cloudflare pages and worker serverless to implement VLESS protocol
+https://github.com/dbeaver/dbeaver,"38,221",Free universal database tool and SQL client
+https://github.com/apache/solr,"1,075",Apache Solr open-source search software
+https://github.com/spring-cloud/spring-cloud-gateway,"4,427",An API Gateway built on Spring Framework and Spring Boot providing routing and more.
+https://github.com/apache/dolphinscheduler,"12,372",Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
+https://github.com/apache/nifi,"4,572",Apache NiFi
+https://github.com/netty/netty,"33,028",Netty project - an event-driven asynchronous network application framework
+https://github.com/apache/lucene,"2,445",Apache Lucene open-source search software
+https://github.com/apache/druid,"13,274",Apache Druid: a high performance real-time analytics database.
+https://github.com/bazelbuild/bazel,"22,655","a fast, scalable, multi-language and extensible build system"
+https://github.com/hapifhir/hapi-fhir,"1,938",🔥 HAPI FHIR - Java API for HL7 FHIR Clients and Servers
+https://github.com/languagetool-org/languagetool,"11,780",Style and Grammar Checker for 25+ Languages
+https://github.com/apache/paimon,"2,094",Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
+https://github.com/liquibase/liquibase,"4,487",Main Liquibase Source
+https://github.com/SeleniumHQ/selenium,"29,715",A browser automation framework and ecosystem.
+https://github.com/TGX-Android/Telegram-X,"3,147",The main repository of Telegram X — official alternative Telegram client for Android.
+https://github.com/apache/pinot,"5,234",Apache Pinot - A realtime distributed OLAP datastore
+https://github.com/NationalSecurityAgency/ghidra,"49,023",Ghidra is a software reverse engineering (SRE) framework
+https://github.com/folke/lazy.nvim,"12,851",💤 A modern plugin manager for Neovim
+https://github.com/projectdiscovery/katana,"9,901",A next-generation crawling and spidering framework.
+https://github.com/ethereum/EIPs,"12,701",The Ethereum Improvement Proposal repository
+https://github.com/localstack/localstack,"52,859",💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+https://github.com/meta-llama/llama3,"22,543",The official Meta Llama 3 GitHub site
+https://github.com/getsentry/sentry,"37,446",Developer-first error tracking and performance monitoring
+https://github.com/frappe/hrms,957,Open Source HR and Payroll Software
+https://github.com/tiangolo/fastapi,"72,959","FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+https://github.com/1Panel-dev/MaxKB,"7,702",🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。
+https://github.com/LiheYoung/Depth-Anything,"6,306",[CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
+https://github.com/StevenBlack/hosts,"26,058","🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories."
+https://github.com/lizongying/my-tv,"28,395",我的电视 电视直播软件，安装即可使用
+https://github.com/citusdata/citus,"10,064",Distributed PostgreSQL as an extension
+https://github.com/karpathy/llama2.c,"16,689",Inference Llama 2 in one file of pure C
+https://github.com/microsoft/Windows-driver-samples,"6,743",This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
+https://github.com/FreeRDP/FreeRDP,"10,488",FreeRDP is a free remote desktop protocol library and clients
+https://github.com/ttttupup/wxhelper,"1,887",Hook WeChat / 微信逆向
+https://github.com/coturn/coturn,"10,783",coturn TURN server project
+https://github.com/open-mpi/ompi,"2,067",Open MPI main development repository
+https://github.com/meetecho/janus-gateway,"7,979",Janus WebRTC Server
+https://github.com/curl/curl,"34,734","A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features"
+https://github.com/littlefs-project/littlefs,"4,885",A little fail-safe filesystem designed for microcontrollers
+https://github.com/memcached/memcached,"13,307",memcached development tree
+https://github.com/ImageMagick/ImageMagick,"11,503",🧙‍♂️ ImageMagick 7
+https://github.com/libretro/RetroArch,"9,736","Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3."
+https://github.com/open5gs/open5gs,"1,679","Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-17)"
+https://github.com/danmar/cppcheck,"5,550",static analysis of C/C++ code
+https://github.com/pybind/pybind11,"15,064",Seamless operability between C++11 and Python
+https://github.com/dail8859/NotepadNext,"8,584","A cross-platform, reimplementation of Notepad++"
+https://github.com/ArduPilot/ardupilot,"10,143","ArduPlane, ArduCopter, ArduRover, ArduSub source"
+https://github.com/jbeder/yaml-cpp,"4,899",A YAML parser and emitter in C++
+https://github.com/google/benchmark,"8,574",A microbenchmark support library
+https://github.com/ClickHouse/ClickHouse,"35,290",ClickHouse® is a real-time analytics DBMS
+https://github.com/BehaviorTree/BehaviorTree.CPP,"2,787",Behavior Trees Library in C++. Batteries included.
+https://github.com/aristocratos/btop,"17,902",A monitor of resources
+https://github.com/keepassxreboot/keepassxc,"19,953",KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+https://github.com/luau-lang/luau,"3,778","A fast, small, safe, gradually typed embeddable scripting language derived from Lua"
+https://github.com/esphome/esphome,"7,977",ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+https://github.com/tensorflow/tensorflow,"183,785",An Open Source Machine Learning Framework for Everyone
+https://github.com/carla-simulator/carla,"10,775",Open-source simulator for autonomous driving research.
+https://github.com/facebookresearch/faiss,"29,200",A library for efficient similarity search and clustering of dense vectors.
+https://github.com/leejet/stable-diffusion.cpp,"2,878",Stable Diffusion in pure C/C++
+https://github.com/google/perfetto,"2,558","Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror ofhttps://android.googlesource.com/platform/external/perfetto/)"
+https://github.com/farm-fe/farm,"3,702",Extremely fast Vite-compatible web build tool written in Rust
+https://github.com/vercel/turbo,"25,452","Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo."
+https://github.com/librespot-org/librespot,"4,445",Open Source Spotify client library
+https://github.com/rwf2/Rocket,"23,757",A web framework for Rust.
+https://github.com/Wilfred/difftastic,"19,891",a structural diff that understands syntax 🟥🟩
+https://github.com/szabodanika/microbin,"2,461","A secure, configurable file-sharing and URL shortening web app written in Rust."
+https://github.com/veeenu/eldenring-practice-tool,113,Elden Ring speedrunning practice tool
+https://github.com/Rigellute/spotify-tui,"16,844",Spotify for the terminal written in Rust 🚀
+https://github.com/gleam-lang/gleam,"16,346","⭐️ A friendly language for building type-safe, scalable systems!"
+https://github.com/rust-unofficial/awesome-rust,"44,287",A curated list of Rust code and resources.
+https://github.com/hickory-dns/hickory-dns,"3,776","A Rust based DNS client, server, and resolver"
+https://github.com/jmshrv/finamp,"1,661",A Jellyfin music client for mobile
+https://github.com/jonataslaw/getx,"10,009","Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get."
+https://github.com/Baseflow/flutter-permission-handler,"1,993","Permission plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API to request and check permissions."
+https://github.com/AgoraIO-Extensions/Agora-Flutter-SDK,719,Flutter plugin of Agora RTC SDK for Android/iOS/macOS/Windows
+https://github.com/boskokg/flutter_blue_plus,650,"Flutter plugin for connecting and communicationg with Bluetooth Low Energy devices, on Android and iOS"
+https://github.com/SimformSolutionsPvtLtd/flutter_calendar_view,389,A Flutter package allows you to easily implement all calendar UI and calendar event functionality. 👌🔝🎉
+https://github.com/firebase/flutterfire,"8,493",🔥 A collection of Firebase plugins for Flutter apps.
+https://github.com/aleksanderwozniak/table_calendar,"1,752","Highly customizable, feature-packed calendar widget for Flutter"
+https://github.com/dotnet/AspNetCore.Docs,"12,427",Documentation for ASP.NET Core
+https://github.com/kgrzybek/modular-monolith-with-ddd,"10,573",Full Modular Monolith application with Domain-Driven Design approach.
+https://github.com/mini-software/MiniExcel,"2,505","Fast, Low-Memory, Easy Excel .NET helper to import/export/template spreadsheet (support Linux, Mac)"
+https://github.com/mRemoteNG/mRemoteNG,"8,571","mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager."
+https://github.com/dotnetcore/CAP,"6,524","Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern"
+https://github.com/Azure-Samples/cognitive-services-speech-sdk,"2,671",Sample code for the Microsoft Cognitive Services Speech SDK
+https://github.com/HandyOrg/HandyControl,"5,813",Contains some simple and commonly used WPF controls
+https://github.com/HangfireIO/Hangfire,"9,169",An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
+https://github.com/Azure/azure-functions-durable-extension,710,Durable Task Framework extension for Azure Functions
+https://github.com/jasontaylordev/CleanArchitecture,"16,061",Clean Architecture Solution Template for ASP.NET Core
+https://github.com/JoshClose/CsvHelper,"4,609",Library to help reading and writing CSV files
+https://github.com/cypress-io/cypress,"46,387","Fast, easy and reliable testing for anything that runs in a browser."
+https://github.com/mozilla/pdf.js,"47,032",PDF Reader in JavaScript
+https://github.com/airbnb/javascript,"142,822",JavaScript Style Guide
+https://github.com/module-federation/module-federation-examples,"5,393","Implementation examples of module federation , by the creators of module federation"
+https://github.com/wekan/wekan,"19,227","The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done athttps://app.transifex.com/wekan/wekanonly."
+https://github.com/usebruno/bruno,"21,558",Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
+https://github.com/prabathLK/PRABATH-MD,"1,032",🇱🇰 Multi-device whatsapp bot 🎉
+https://github.com/mishoo/UglifyJS,"12,999",JavaScript parser / mangler / compressor / beautifier toolkit
+https://github.com/facebook/react,"224,664",The library for web and native user interfaces.
+https://github.com/pixeltris/TwitchAdSolutions,"7,153",
+https://github.com/spring-projects/spring-framework,"55,587",Spring Framework
+https://github.com/redisson/redisson,"22,944","Redisson - Easy Redis Java client and Real-Time Data Platform. Valkey compatible. Sync/Async/RxJava/Reactive API. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache ..."
+https://github.com/checkstyle/checkstyle,"8,208","Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program."
+https://github.com/AutoMQ/automq,"1,862",AutoMQ is a cloud-native fork of Kafka by separating storage to S3 and EBS. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.
+https://github.com/flowable/flowable-engine,"7,574","A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users."
+https://github.com/TheWidlarzGroup/react-native-video,"7,061",A <Video /> component for react-native
+https://github.com/apache/doris,"11,773","Apache Doris is an easy-to-use, high performance and unified analytics database."
+https://github.com/googlesamples/mlkit,"3,432",A collection of sample apps to demonstrate how to use Google's ML Kit APIs on Android and iOS
+https://github.com/apache/zookeeper,"12,021",Apache ZooKeeper
+https://github.com/StarRocks/starrocks,"8,243","StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries."
+https://github.com/strimzi/strimzi-kafka-operator,"4,619",Apache Kafka® running on Kubernetes
+https://github.com/antlr/antlr4,"16,662","ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files."
+https://github.com/Melledy/LunarCore,"1,182",A game server reimplementation for a certain turn-based anime game
+https://github.com/digitalinnovationone/trilha-java-basico,768,
+https://github.com/cloudcommunity/Free-Certifications,"24,093",A curated list of free courses & certifications.
+https://github.com/langfuse/langfuse,"4,407","🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23"
+https://github.com/Anduin2017/HowToCook,"62,972",程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+https://github.com/omnivore-app/omnivore,"11,127","Omnivore is a complete, open source read-it-later solution for people who like reading."
+https://github.com/livekit/livekit,"8,857",End-to-end stack for WebRTC. SFU media server and SDKs.
+https://github.com/didi/xiaoju-survey,"1,869","「快速」打造「专属」问卷系统, 让调研「更轻松」"
+https://github.com/dbt-labs/dbt-core,"9,234",dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+https://github.com/ansible/ansible,"61,700","Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com."
+https://github.com/open-mmlab/mmdetection3d,"4,993",OpenMMLab's next-generation platform for general 3D object detection.
+https://github.com/CollegesChat/university-information,"2,274",收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
+https://github.com/reflex-dev/reflex,"17,870",🕸️ Web apps in pure Python 🐍
+https://github.com/intuitem/ciso-assistant-community,892,"CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec and Audit Management and supporting +46 frameworks worldwide: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS2, CMMC, PSPF, GDPR, HIPAA, Essential Eight, NYDFS-500, DORA, NIST AI RMF, 800-53, 800-171, CyFun, CJIS, AirCyber and so much more"
+https://github.com/pdm-project/pdm,"7,434",A modern Python package and dependency manager supporting the latest PEP standards
+https://github.com/PostHog/posthog,"19,266","🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host."
+https://github.com/xorbitsai/inference,"3,408","Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop."
+https://github.com/hathach/tinyusb,"4,651",An open source cross-platform USB stack for embedded system
+https://github.com/redis/redis,"65,503","Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps."
+https://github.com/microsoft/react-native-code-push,"8,865",React Native module for CodePush
+https://github.com/eclipse/mosquitto,"8,601",Eclipse Mosquitto - An open source MQTT broker
+https://github.com/uber/h3,"4,689",Hexagonal hierarchical geospatial indexing system
+https://github.com/VirusTotal/yara,"7,886",The pattern matching swiss knife
+https://github.com/FRRouting/frr,"3,108",The FRRouting Protocol Suite
+https://github.com/gluster/glusterfs,"4,556",Gluster Filesystem : Build your distributed storage in minutes
+https://github.com/kamailio/kamailio,"2,184",Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms -
+https://github.com/pgbouncer/pgbouncer,"2,753",lightweight connection pooler for PostgreSQL
+https://github.com/lvgl/lvgl,"15,535","Embedded graphics library to create beautiful UIs for any MCU, MPU and display type."
+https://github.com/freebsd/freebsd-src,"7,624",The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
+https://github.com/libuv/libuv,"23,523",Cross-platform asynchronous I/O
+https://github.com/AFLplusplus/AFLplusplus,"4,800","The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!"
+https://github.com/google/sanitizers,"10,988","AddressSanitizer, ThreadSanitizer, MemorySanitizer"
+https://github.com/chrismaltby/gb-studio,"8,284",A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
+https://github.com/spdk/spdk,"2,924",Storage Performance Development Kit
+https://github.com/86Box/86Box,"2,503",Emulator of x86-based machines based on PCem.
+https://github.com/esnet/iperf,"6,500","iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool"
+https://github.com/Klipper3d/klipper,"8,981",Klipper is a 3d-printer firmware
+https://github.com/stephane/libmodbus,"3,286","A Modbus library for Linux, Mac OS, FreeBSD and Windows"
+https://github.com/protocolbuffers/protobuf,"64,417",Protocol Buffers - Google's data interchange format
+https://github.com/grpc/grpc,"41,112","The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
+https://github.com/NVIDIA/TensorRT-LLM,"7,335",TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
+https://github.com/dmlc/xgboost,"25,753","Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow"
+https://github.com/colmap/colmap,"7,072",COLMAP - Structure-from-Motion and Multi-View Stereo
+https://github.com/yhirose/cpp-httplib,"12,218",A C++ header-only HTTP/HTTPS server and client library
+https://github.com/AGWA/git-crypt,"8,082",Transparent file encryption in git
+https://github.com/abseil/abseil-cpp,"14,240",Abseil Common Libraries (C++)
+https://github.com/fmtlib/fmt,"19,789",A modern formatting library
+https://github.com/o3de/o3de,"7,511","Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations."
+https://github.com/mixxxdj/mixxx,"4,244",Mixxx is Free DJ software that gives you everything you need to perform live mixes.
+https://github.com/ggerganov/llama.cpp,"60,920",LLM inference in C/C++
+https://github.com/carbon-language/carbon-lang,"32,326","Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)"
+https://github.com/google-ai-edge/mediapipe,"26,069","Cross-platform, customizable ML solutions for live and streaming media."
+https://github.com/Tencent/MMKV,"17,052","An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX."
+https://github.com/microsoft/AirSim,"16,037","Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research"
+https://github.com/CleverRaven/Cataclysm-DDA,"9,927",Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
+https://github.com/cameron314/concurrentqueue,"9,481","A fast multi-producer, multi-consumer lock-free concurrent queue for C++11"
+https://github.com/aptos-labs/aptos-core,"5,887",Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
+https://github.com/sunface/rust-course,"23,908","“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book"
+https://github.com/gfx-rs/wgpu,"11,449","A cross-platform, safe, pure-Rust graphics API."
+https://github.com/extrawurst/gitui,"17,782",Blazing 💥 fast terminal-ui for git written in rust 🦀
+https://github.com/solana-labs/solana-program-library,"3,244",A collection of Solana programs maintained by Solana Labs
+https://github.com/tokio-rs/tracing,"5,112",Application level tracing for Rust.
+https://github.com/seanmonstar/reqwest,"9,392",An easy and powerful Rust HTTP Client
+https://github.com/Yamato-Security/hayabusa,"2,056",Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
+https://github.com/delta-io/delta-rs,"1,969","A native Rust library for Delta Lake, with bindings into Python"
+https://github.com/gimli-rs/object,610,A unified interface for reading and writing object file formats
+https://github.com/paradedb/paradedb,"4,676",Postgres for Search and Analytics
+https://github.com/apache/opendal,"2,986",Apache OpenDAL: access data freely.
+https://github.com/graphprotocol/graph-node,"2,846",Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
+https://github.com/vosen/ZLUDA,"8,280",CUDA on AMD GPUs
+https://github.com/slint-ui/slint,"15,868","Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps."
+https://github.com/neondatabase/neon,"13,171","Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero."
+https://github.com/apache/arrow-rs,"2,303",Official Rust implementation of Apache Arrow
+https://github.com/flutter/samples,"16,801",A collection of Flutter examples and demos
+https://github.com/nank1ro/flutter-shadcn-ui,670,"shadcn-ui ported in Flutter. Awesome UI components for Flutter, fully customizable."
+https://github.com/isar/isar,"3,434","Extremely fast, easy to use, and fully async NoSQL database for Flutter"
+https://github.com/Sub6Resources/flutter_html,"1,764",A Flutter widget for rendering static html as Flutter widgets (Will render over 80 different html tags!)
+https://github.com/samarthagarwal/FlutterScreens,"5,614","A collection of Screens and attractive UIs built with Flutter ready to be used in your applications. No external libraries are used. Just download, add to your project and use."
+https://github.com/flutter/gallery,"6,278",Flutter Gallery was a resource to help developers evaluate and use Flutter
+https://github.com/btcpayserver/btcpayserver,"6,145","Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor."
+https://github.com/dotnet/MQTTnet,"4,294",MQTTnet is a high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). The implementation is based on the documentation fromhttp://mqtt.org/.
+https://github.com/elsa-workflows/elsa-core,"6,021",A .NET workflows library
+https://github.com/dotnet/orleans,"9,927",Cloud Native application framework for .NET
+https://github.com/d2phap/ImageGlass,"7,038","🏞 A lightweight, versatile image viewer"
+https://github.com/SonarSource/sonar-dotnet,748,Code analyzer for C# and VB.NET projects
+https://github.com/sshnet/SSH.NET,"3,876","SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism."
+https://github.com/dotnet-architecture/eShopOnWeb,"10,036","Sample ASP.NET Core 8.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder."
+https://github.com/ardalis/CleanArchitecture,"15,159",Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
+https://github.com/uberhalit/EldenRingFpsUnlockAndMore,"1,158","A small utility to remove frame rate limit, change FOV, add widescreen support and more for Elden Ring"
+https://github.com/seerge/g-helper,"5,762","Lightweight Armoury Crate alternative for Asus laptops and ROG Ally. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models"
+https://github.com/dotenvx/dotenvx,"1,330",a better dotenv–from the creator of `dotenv`
+https://github.com/exceljs/exceljs,"13,203",Excel Workbook Manager
+https://github.com/select2/select2,"25,836","Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results."
+https://github.com/appium/appium,"18,229","Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
+https://github.com/swagger-api/swagger-ui,"25,954","Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API."
+https://github.com/quasarframework/quasar,"25,486",Quasar Framework - Build high-performance VueJS user interfaces in record time
+https://github.com/jamiebuilds/the-super-tiny-compiler,"27,604",⛄ Possibly the smallest compiler ever
+https://github.com/ckeditor/ckeditor5,"8,680","Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing."
+https://github.com/trekhleb/javascript-algorithms,"184,933",📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+https://github.com/31b4/Leetcode-Premium-Bypass,"3,226",Leetcode Premium Unlocker 2024
+https://github.com/Asabeneh/30-Days-Of-React,"24,608",30 Days of React challenge is a step by step guide to learn React in 30 days. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
+https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation,984,"A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc"
+https://github.com/layui/layui,"29,238",一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
+https://github.com/jgraph/drawio-desktop,"47,837",Official electron build of draw.io
+https://github.com/apache/dubbo,"40,196",The java implementation of Apache Dubbo. An RPC and microservice framework.
+https://github.com/devopshydclub/vprofile-project,"2,134",
+https://github.com/in28minutes/master-spring-and-spring-boot,"1,150",Spring and Spring Boot Tutorial For Absolute Beginners - 10-in-1 - Spring to Spring Boot to REST API to Full Stack to Containers to Cloud
+https://github.com/apache/hudi,"5,182","Upserts, Deletes And Incremental Processing on Big Data."
+https://github.com/apache/shardingsphere,"19,596","Distributed SQL transaction & query engine for data sharding, scaling, encryption, and more - on any database."
+https://github.com/Azure/azure-sdk-for-java,"2,246",This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs athttps://docs.microsoft.com/java/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-java.
+https://github.com/hibernate/hibernate-orm,"5,809",Hibernate's core Object/Relational Mapping functionality
+https://github.com/Snailclimb/JavaGuide,"144,491",「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+https://github.com/apache/flink,"23,451",Apache Flink
+https://github.com/google/ExoPlayer,"21,599",An extensible media player for Android
+https://github.com/signalapp/Signal-Android,"25,141",A private messenger for Android.
+https://github.com/iluwatar/java-design-patterns,"88,188",Design patterns implemented in Java
+https://github.com/androidx/media,"1,333","Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android"
+https://github.com/apache/pulsar,"13,926",Apache Pulsar - distributed pub-sub messaging system
+https://github.com/ChrisTitusTech/winutil,"15,368","Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates"
+https://github.com/shadcn-ui/ui,"62,447",Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+https://github.com/pointfreeco/swift-composable-architecture,"11,822","A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind."
+https://github.com/ray-project/kuberay,925,A toolkit to run Ray applications on Kubernetes
+https://github.com/Lissy93/web-check,"20,554",🕵️‍♂️ All-in-one OSINT tool for analysing any website
+https://github.com/modelscope/DiffSynth-Studio,"4,985",Enjoy the magic of Diffusion models!
+https://github.com/microsoft/sample-app-aoai-chatGPT,"1,375","Sample code for a simple web chat experience through Azure OpenAI, including Azure OpenAI On Your Data."
+https://github.com/VinciGit00/Scrapegraph-ai,"12,426",Python scraper based on AI
+https://github.com/harry0703/MoneyPrinterTurbo,"14,190",利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+https://github.com/NVIDIA/NeMo,"10,789","A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)"
+https://github.com/yzhao062/pyod,"8,219",A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)
+https://github.com/ShishirPatil/gorilla,"10,626",Gorilla: An API store for LLMs
+https://github.com/modelscope/FunASR,"4,437","A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc."
+https://github.com/NUS-HPC-AI-Lab/OpenDiT,"1,197","OpenDiT: An Easy, Fast and Memory-Efficient System for DiT Training and Inference"
+https://github.com/microsoft/UFO,"6,183",A UI-Focused Agent for Windows OS Interaction.
+https://github.com/simonw/llm,"3,415",Access large language models from the command-line
+https://github.com/paul-gauthier/aider,"12,465",aider is AI pair programming in your terminal
+https://github.com/wazuh/wazuh,"9,599",Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
+https://github.com/valkey-io/valkey,"14,507","A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore."
+https://github.com/sonic-net/sonic-buildimage,696,Scripts which perform an installable binary image build for SONiC
+https://github.com/fluent/fluent-bit,"5,510","Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows"
+https://github.com/arthenica/ffmpeg-kit,"3,970","FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg."
+https://github.com/OISF/suricata,"4,235","Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community."
+https://github.com/apache/nuttx,"2,479","Apache NuttX is a mature, real-time embedded operating system (RTOS)"
+https://github.com/confluentinc/librdkafka,"7,365",The Apache Kafka C/C++ library
+https://github.com/microsoft/mimalloc,"9,712",mimalloc is a compact general purpose allocator with excellent performance.
+https://github.com/ffmpegwasm/ffmpeg.wasm,"13,419","FFmpeg for browser, powered by WebAssembly"
+https://github.com/EpicGamesExt/raddebugger,"3,068","A native, user-mode, multi-process, graphical debugger."
+https://github.com/MrForExample/ComfyUI-3D-Pack,"1,701","An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)"
+https://github.com/bytecodealliance/wasm-micro-runtime,"4,648",WebAssembly Micro Runtime (WAMR)
+https://github.com/jqlang/jq,"29,510",Command-line JSON processor
+https://github.com/redcanaryco/atomic-red-team,"9,317",Small and highly portable detection tests based on MITRE's ATT&CK.
+https://github.com/zhuzichu520/FluentUI,"3,096",FluentUI for QML
+https://github.com/google/gemma.cpp,"5,705","lightweight, standalone C++ inference engine for Google's Gemma models."
+https://github.com/facebookincubator/velox,"3,267",A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
+https://github.com/google/googletest,"33,646",GoogleTest - Google Testing and Mocking Framework
+https://github.com/libcpr/cpr,"6,285","C++ Requests: Curl for People, a spiritual port of Python Requests."
+https://github.com/gabime/spdlog,"22,907",Fast C++ logging library.
+https://github.com/cocos/cocos-engine,"5,486","Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment."
+https://github.com/facebook/rocksdb,"27,803","A library that provides an embeddable, persistent key-value store for fast storage."
+https://github.com/Mozilla-Ocho/llamafile,"16,715",Distribute and run LLMs with a single file.
+https://github.com/microsoft/onnxruntime-genai,287,Generative AI extensions for onnxruntime
+https://github.com/IntelRealSense/librealsense,"7,424",Intel® RealSense™ SDK
+https://github.com/openxla/xla,"2,382","A machine learning compiler for GPUs, CPUs, and ML accelerators"
+https://github.com/google/flatbuffers,"22,499",FlatBuffers: Memory Efficient Serialization Library
+https://github.com/PCSX2/pcsx2,"10,603",PCSX2 - The Playstation 2 Emulator
+https://github.com/catchorg/Catch2,"18,214","A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)"
+https://github.com/bitcoin/bitcoin,"77,011",Bitcoin Core integration/staging tree
+https://github.com/ArthurSonzogni/FTXUI,"6,409",💻 C++ Functional Terminal User Interface. ❤️
+https://github.com/topjohnwu/Magisk,"45,382",The Magic Mask for Android
+https://github.com/ossrs/srs,"24,704","SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181."
+https://github.com/MAZHARMIK/Interview_DS_Algo,"1,299",Super Repository for Coding Interview Preperation
+https://github.com/apache/datafusion,"5,470",Apache DataFusion SQL Query Engine
+https://github.com/stacks-network/stacks-core,"2,999",The Stacks blockchain implementation
+https://github.com/orhun/git-cliff,"8,127",A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
+https://github.com/rust-lang/book,"14,543",The Rust Programming Language
+https://github.com/openobserve/openobserve,"10,190","🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay)."
+https://github.com/huggingface/candle,"14,215",Minimalist ML framework for Rust
+https://github.com/HigherOrderCO/Bend,"16,620","A massively parallel, high-level programming language"
+https://github.com/embassy-rs/embassy,"4,777","Modern embedded framework, using Rust and async."
+https://github.com/juspay/hyperswitch,"11,009","An open source payments switch written in Rust to make payments fast, reliable and affordable"
+https://github.com/libp2p/rust-libp2p,"4,278",The Rust Implementation of the libp2p networking stack.
+https://github.com/tokio-rs/tokio,"25,329","A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
+https://github.com/volta-cli/volta,"10,271",Volta: JS Toolchains as Code. ⚡
+https://github.com/getzola/zola,"12,940",A fast static site generator in a single binary with everything built-in.https://www.getzola.org
+https://github.com/cloud-hypervisor/cloud-hypervisor,"3,725","A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security."
+https://github.com/influxdata/influxdb,"28,159","Scalable datastore for metrics, events, and real-time analytics"
+https://github.com/Schniz/fnm,"16,356","🚀 Fast and simple Node.js version manager, built in Rust"
+https://github.com/bottlerocket-os/bottlerocket,"8,387",An operating system designed for hosting containers
+https://github.com/alvr-org/ALVR,"4,991",Stream VR games from your PC to your headset via Wi-Fi
+https://github.com/foundry-rs/foundry,"7,850","Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust."
+https://github.com/dani-garcia/vaultwarden,"34,578","Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs"
+https://github.com/Anxcye/anx-reader,"1,051",An e-book reader written using Flutter. 使用Flutter编写的电子书阅读器
+https://github.com/mitesh77/Best-Flutter-UI-Templates,"19,904",completely free for everyone. Its build-in Flutter Dart.
+https://github.com/aws-amplify/amplify-flutter,"1,298",A declarative library with an easy-to-use interface for building Flutter applications on AWS.
+https://github.com/dart-lang/site-www,935,Source for Dart website
+https://github.com/flame-engine/flame,"8,962",A Flutter based game engine.
+https://github.com/felangel/bloc,"11,523",A predictable state management library that helps implement the BLoC design pattern
+https://github.com/flutter/website,"2,742",Flutter documentation web site
+https://github.com/deckerst/aves,"2,152","Aves is a gallery and metadata explorer app, built for Android with Flutter."
+https://github.com/cfug/dio,"12,339","A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapters, etc."
+https://github.com/dotnet/maui,"21,815",".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop."
+https://github.com/codebude/QRCoder,"4,401",A pure C# Open Source QR Code implementation
+https://github.com/microsoft/fluentui-blazor,"3,457",Microsoft Fluent UI Blazor components library. For use with ASP.NET Core Blazor applications
+https://github.com/radzenhq/radzen-blazor,"3,310","Radzen Blazor is a set of 70+ free native Blazor UI components packed with DataGrid, Scheduler, Charts and robust theming including Material design and FluentUI."
+https://github.com/ShareX/ShareX,"28,423","ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from."
+https://github.com/microsoft/kiota,"2,428",OpenAPI based HTTP Client code generator
+https://github.com/dotnet/maui-samples,"2,958",Samples for .NET Multi-Platform App UI (.NET MAUI)
+https://github.com/BeyondDimension/SteamTools,"18,710",🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+https://github.com/MudBlazor/MudBlazor,"7,463",Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.
+https://github.com/abpframework/abp,"12,453","Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infrastructure, cross-cutting-concern implementations, startup templates, application modules, UI themes, tooling and documentation."
+https://github.com/rocksdanister/lively,"14,296",Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+https://github.com/OpenZeppelin/openzeppelin-contracts,"24,430",OpenZeppelin Contracts is a library for secure smart contract development.
+https://github.com/plankanban/planka,"7,174",The realtime kanban board for workgroups built with React and Redux.
+https://github.com/max32002/tixcraft_bot,"2,276",MaxBot open source code bot
+https://github.com/ToolJet/ToolJet,"28,075","Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀"
+https://github.com/timqian/chinese-independent-blogs,"19,236",中文独立博客列表
+https://github.com/badges/shields,"22,938","Concise, consistent, and legible badges in SVG and raster format"
+https://github.com/smallfawn/QLScriptPublic,"1,771",青龙面板脚本公共仓库 新群 551674817 密码888 元梦之星
+https://github.com/microsoft/monaco-editor,"38,973",A browser based code editor
+https://github.com/adrianhajdin/project_3D_developer_portfolio,"5,403",The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today!
+https://github.com/blueedgetechno/win11React,"8,953",Windows 11 in React 💻🌈⚡
+https://github.com/amzn/style-dictionary,"3,724",A build system for creating cross-platform styles.
+https://github.com/zloirock/core-js,"24,109",Standard Library
+https://github.com/HumanSignal/label-studio,"17,249",Label Studio is a multi-type data labeling and annotation tool with standardized output format
+https://github.com/fchollet/ARC-AGI,"2,907",The Abstraction and Reasoning Corpus
+https://github.com/CodeWithHarry/Sigma-Web-Dev-Course,"4,878",Source Code for Sigma Web Development Course
+https://github.com/sveltejs/kit,"18,076","web development, streamlined"
+https://github.com/Neet-Nestor/Telegram-Media-Downloader,"1,025",A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
+https://github.com/poteto/hiring-without-whiteboards,"42,818",⭐️ Companies that don't have a broken hiring process
+https://github.com/real-logic/aeron,"7,146","Efficient reliable UDP unicast, UDP multicast, and IPC message transport"
+https://github.com/trinodb/trino,"9,832","Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)"
+https://github.com/OpenAPITools/openapi-generator,"20,515","OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)"
+https://github.com/quarkusio/quarkus,"13,340",Quarkus: Supersonic Subatomic Java.
+https://github.com/kdn251/interviews,"62,642",Everything you need to know to get the job.
+https://github.com/ReactiveX/RxJava,"47,756",RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+https://github.com/libgdx/libgdx,"22,925",Desktop/Android/HTML5/iOS Java game development framework
+https://github.com/apache/flink-cdc,"5,448",Flink CDC is a streaming data integration tool
+https://github.com/mybatis/mybatis-3,"19,530",MyBatis SQL mapper framework for Java
+https://github.com/GoogleCloudPlatform/spring-cloud-gcp,394,New home for Spring Cloud GCP development starting with version 2.0.
+https://github.com/awsdocs/aws-doc-sdk-examples,"9,148","Welcome to the AWS Code Examples Repository. This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below."
+https://github.com/grpc/grpc-java,"11,245",The Java gRPC implementation. HTTP/2 based RPC
+https://github.com/halo-dev/halo,"32,397",强大易用的开源建站工具。
+https://github.com/xuxueli/xxl-job,"26,919",A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+https://github.com/DataDog/dd-trace-java,549,Datadog APM client for Java
+https://github.com/itwanger/toBeBetterJavaer,"12,405",一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
+https://github.com/microg/GmsCore,"7,463",Free implementation of Play Services
+https://github.com/elastic/elasticsearch,"68,497","Free and Open, Distributed, RESTful Search Engine"
+https://github.com/spring-projects/spring-ai,"2,467",An Application Framework for AI Engineering
+https://github.com/LawnchairLauncher/lawnchair,"8,807",No clever tagline needed.
+https://github.com/FabricMC/fabric-example-mod,"1,557",Example Fabric mod
+https://github.com/alibaba/fastjson2,"3,548",🚄 FASTJSON2 is a Java JSON library with excellent performance.
+https://github.com/openjdk/jdk,"18,863",JDK main-line developmenthttps://openjdk.org/projects/jdk
+https://github.com/tigerbeetle/tigerbeetle,"7,840",The distributed financial transactions database designed for mission critical safety and performance.
+https://github.com/mrdbourke/pytorch-deep-learning,"8,799",Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
+https://github.com/neovim/neovim,"79,572",Vim-fork focused on extensibility and usability
+https://github.com/EbookFoundation/free-programming-books,"325,371",📚 Freely available programming books
+https://github.com/danny-avila/LibreChat,"15,058","Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development"
+https://github.com/snipe/snipe-it,"10,263",A free open source IT asset/license management system
+https://github.com/ZuodaoTech/everyone-can-use-english,"21,027",人人都能用英语
+https://github.com/mehdihadeli/awesome-software-architecture,"6,525","🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles."
+https://github.com/mayneyao/eidos,"1,193",Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
+https://github.com/coollabsio/coolify,"25,883",An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+https://github.com/codecrafters-io/build-your-own-x,"280,435",Master programming by recreating your favorite technologies from scratch.
+https://github.com/LazyVim/LazyVim,"15,241",Neovim config for the lazy
+https://github.com/JanDeDobbeleer/oh-my-posh,"15,716",The most customisable and low-latency cross platform/shell prompt renderer
+https://github.com/microsoft/generative-ai-for-beginners,"49,949","18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/"
+https://github.com/dortania/OpenCore-Legacy-Patcher,"11,530",Experience macOS just like before
+https://github.com/yt-dlp/yt-dlp,"75,604",A feature-rich command-line audio/video downloader
+https://github.com/mategol/PySilon-malware,627,"Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier."
+https://github.com/xtekky/gpt4free,"59,006",The official gpt4free repository | various collection of powerful language models
+https://github.com/abi/screenshot-to-code,"54,290",Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+https://github.com/joaomdmoura/crewAI,"16,664","Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks."
+https://github.com/tinygrad/tinygrad,"24,952",You like pytorch? You like micrograd? You love tinygrad! ❤️
+https://github.com/public-apis/public-apis,"297,121",A collective list of free APIs
+https://github.com/bkerler/mtkclient,"2,290",MTK reverse engineering and flash tool
+https://github.com/ml-explore/mlx-examples,"5,487",Examples in the MLX framework
+https://github.com/w-okada/voice-changer,"15,243",リアルタイムボイスチェンジャー Realtime Voice Changer
+https://github.com/galaxyproject/galaxy,"1,338",Data intensive science for everyone.
+https://github.com/sympy/sympy,"12,555",A computer algebra system written in pure Python
+https://github.com/commaai/openpilot,"48,587",openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
+https://github.com/joaomdmoura/crewAI-examples,"2,156",
+https://github.com/Asabeneh/30-Days-Of-Python,"34,559","30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw"
+https://github.com/searxng/searxng,"10,590",SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+https://github.com/donnemartin/system-design-primer,"262,422",Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+https://github.com/infiniflow/ragflow,"10,535",RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+https://github.com/snakers4/silero-vad,"3,275",Silero VAD: pre-trained enterprise-grade Voice Activity Detector
+https://github.com/KurtBestor/Hitomi-Downloader,"20,849","🍰 Desktop utility to download images/videos/music/text from various websites, and more."
+https://github.com/swisskyrepo/PayloadsAllTheThings,"58,111",A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+https://github.com/anthropics/anthropic-sdk-python,"1,090",
+https://github.com/BerriAI/litellm,"10,138","Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)"
+https://github.com/odoo/odoo,"35,971",Odoo. Open Source Apps To Grow Your Business.
+https://github.com/danielmiessler/fabric,"17,780",fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+https://github.com/comfyanonymous/ComfyUI,"40,606","The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface."
+https://github.com/VikParuchuri/marker,"13,632",Convert PDF to markdown quickly with high accuracy
+https://github.com/hpcaitech/Open-Sora,"19,940",Open-Sora: Democratizing Efficient Video Production for All
+https://github.com/jianchang512/pyvideotrans,"7,620",Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音
+https://github.com/OpenBMB/MiniCPM-V,"7,712",MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone
+https://github.com/vanna-ai/vanna,"8,977",🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+https://github.com/Doriandarko/maestro,"3,340",A framework for Claude Opus to intelligently orchestrate subagents.
+https://github.com/roboflow/supervision,"17,047",We write your reusable computer vision tools. 💜
+https://github.com/jackfrued/Python-100-Days,"152,158",Python - 100天从新手到大师
+https://github.com/labmlai/annotated_deep_learning_paper_implementations,"51,067","🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠"
+https://github.com/LLaVA-VL/LLaVA-NeXT,987,
+https://github.com/Stability-AI/stable-audio-tools,"2,223",Generative models for conditional audio generation
+https://github.com/isaac-sim/IsaacLab,"1,482",Unified framework for robot learning built on NVIDIA Isaac Sim
+https://github.com/home-assistant/core,"69,674",🏡 Open source home automation that puts local control and privacy first.
+https://github.com/pygame/pygame,"7,128","🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL."
+https://github.com/qmk/qmk_firmware,"17,451",Open-source keyboard firmware for Atmel AVR and Arm USB families
+https://github.com/libsdl-org/SDL,"8,670",Simple Directmedia Layer
+https://github.com/DarkFlippers/unleashed-firmware,"15,709",Flipper Zero Unleashed Firmware
+https://github.com/xmrig/xmrig,"8,481","RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark"
+https://github.com/ptitSeb/box64,"3,361","Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices"
+https://github.com/aws/s2n-tls,"4,461",An implementation of the TLS/SSL protocols
+https://github.com/arendst/Tasmota,"21,688","Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at"
+https://github.com/melonDS-emu/melonDS,"2,980","DS emulator, sorta"
+https://github.com/raysan5/raylib,"20,332",A simple and easy-to-use library to enjoy videogames programming
+https://github.com/aircrack-ng/aircrack-ng,"4,981",WiFi security auditing tools suite
+https://github.com/adafruit/Adafruit-GFX-Library,"2,318","Adafruit GFX graphics core Arduino library, this is the 'core' class that all our other graphics libraries derive from"
+https://github.com/FluidSynth/fluidsynth,"1,753",Software synthesizer based on the SoundFont 2 specifications
+https://github.com/fw876/helloworld,"3,516",
+https://github.com/lz4/lz4,"9,401",Extremely Fast Compression algorithm
+https://github.com/mgba-emu/mgba,"5,467",mGBA Game Boy Advance Emulator
+https://github.com/bitcoin-core/secp256k1,"2,004",Optimized C library for EC operations on curve secp256k1
+https://github.com/HandBrake/HandBrake,"16,334",HandBrake's main development repository
+https://github.com/systemd/systemd,"12,793",The systemd System and Service Manager
+https://github.com/valinet/ExplorerPatcher,"22,644",This project aims to enhance the working environment on Windows
+https://github.com/kingToolbox/WindTerm,"21,440",A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
+https://github.com/libevent/libevent,"10,876",Event notification library
+https://github.com/nanopb/nanopb,"4,159",Protocol Buffers with small code size
+https://github.com/facebook/zstd,"22,747",Zstandard - Fast real-time compression algorithm
+https://github.com/Bodmer/TFT_eSPI,"3,513","Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips"
+https://github.com/mpv-player/mpv,"26,659",🎥 Command line video player
+https://github.com/signalwire/freeswitch,"3,306","FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device."
+https://github.com/iovisor/bcc,"19,817","BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more"
+https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware,732,Firmware for stm32f051 based speed controllers for use with mutirotors
+https://github.com/pgbackrest/pgbackrest,"2,321",Reliable PostgreSQL Backup & Restore
+https://github.com/nginx/njs,827,A subset of JavaScript language to use in nginx
+https://github.com/portapack-mayhem/mayhem-firmware,"3,008",Custom firmware for the HackRF+PortaPack H1/H2
+https://github.com/RT-Thread/rt-thread,"9,994",RT-Thread is an open source IoT real-time operating system (RTOS).
+https://github.com/NVIDIA/open-gpu-kernel-modules,"14,166",NVIDIA Linux open GPU kernel module source
+https://github.com/openssl/openssl,"24,844",TLS/SSL and crypto library
+https://github.com/ventoy/Ventoy,"60,194",A new bootable USB solution.
+https://github.com/netdata/netdata,"69,373",The open-source observability platform everyone needs!
+https://github.com/Genymobile/scrcpy,"105,063",Display and control your Android device
+https://github.com/brunodev85/winlator,"6,582",Android application for running Windows applications with Wine and Box86/Box64
+https://github.com/tursodatabase/libsql,"8,553","libSQL is a fork of SQLite that is both Open Source, and Open Contributions."
+https://github.com/jart/cosmopolitan,"17,157",build-once run-anywhere c library
+https://github.com/obsproject/obs-studio,"57,140",OBS Studio - Free and open source software for live streaming and screen recording
+https://github.com/yugabyte/yugabyte-db,"8,631",YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
+https://github.com/coolsnowwolf/lede,"29,126",Lean's LEDE source
+https://github.com/espressif/esp-idf,"12,871",Espressif IoT Development Framework. Official development framework for Espressif SoCs.
+https://github.com/zephyrproject-rtos/zephyr,"9,989","Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures."
+https://github.com/moonlight-stream/moonlight-android,"3,487",GameStream client for Android
+https://github.com/darktable-org/darktable,"9,052",darktable is an open source photography workflow application and raw developer
+https://github.com/flipperdevices/flipperzero-firmware,"11,702",Flipper Zero firmware source code
+https://github.com/ArtifexSoftware/mupdf,"1,208",mupdf mirror
+https://github.com/acidanthera/OpenCorePkg,"12,993",OpenCore bootloader
+https://github.com/opa334/Dopamine,"3,040",Dopamine is a semi-untethered jailbreak for iOS 15 and 16
+https://github.com/SanderMertens/flecs,"5,814",A fast entity component system (ECS) for C & C++
+https://github.com/pgvector/pgvector,"10,379",Open-source vector similarity search for Postgres
+https://github.com/wolfpld/tracy,"8,463",Frame profiler
+https://github.com/ocornut/imgui,"57,433",Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+https://github.com/TrinityCore/TrinityCore,"9,250","TrinityCore Open Source MMO Framework (master = 10.2.7.55261, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic = 4.4.0.55262)"
+https://github.com/atcoder/ac-library,"1,747",AtCoder Library
+https://github.com/hyprwm/Hyprland,"17,899",Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+https://github.com/Alexays/Waybar,"5,816",Highly customizable Wayland bar for Sway and Wlroots based compositors. ✌️ 🎉
+https://github.com/Aircoookie/WLED,"14,193",Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+https://github.com/ml-explore/mlx,"15,619",MLX: An array framework for Apple silicon
+https://github.com/ValveSoftware/Proton,"23,312",Compatibility tool for Steam Play based on Wine and additional components
+https://github.com/RPCS3/rpcs3,"14,655",PS3 emulator/debugger
+https://github.com/espressif/arduino-esp32,"12,947",Arduino core for the ESP32
+https://github.com/multitheftauto/mtasa-blue,"1,306",Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
+https://github.com/open-telemetry/opentelemetry-cpp,804,The OpenTelemetry C++ Client
+https://github.com/diasurgical/devilutionX,"7,663",Diablo build for modern operating systems
+https://github.com/rui314/mold,"13,654",Mold: A Modern Linker 🦠
+https://github.com/meshtastic/firmware,"2,970",Meshtastic device firmware
+https://github.com/stenzek/duckstation,"6,433",Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
+https://github.com/godotengine/godot,"86,197",Godot Engine – Multi-platform 2D and 3D game engine
+https://github.com/TheCherno/Hazel,"11,410",Hazel Engine
+https://github.com/niedev/RTranslator,"4,792",Open source real-time translation app for Android that runs locally
+https://github.com/BlackINT3/OpenArk,"8,132",The Next Generation of Anti-Rookit(ARK) tool for Windows.
+https://github.com/nlohmann/json,"41,221",JSON for Modern C++
+https://github.com/azerothcore/azerothcore-wotlk,"6,115",Complete Open Source and Modular solution for MMO
+https://github.com/harfbuzz/harfbuzz,"3,800",HarfBuzz text shaping engine
+https://github.com/electron/electron,"112,664","Build cross-platform desktop apps with JavaScript, HTML, and CSS"
+https://github.com/facebook/react-native,"116,875",A framework for building native applications using React
+https://github.com/YimMenu/YimMenu,"1,198","YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience."
+https://github.com/microsoft/winget-cli,"22,532","WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface)."
+https://github.com/strato-emu/strato,"1,976",Run Nintendo Switch homebrew & games on your Android device!
+https://github.com/PX4/PX4-Autopilot,"7,833",PX4 Autopilot Software
+https://github.com/assimp/assimp,"10,475",The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.
+https://github.com/google/leveldb,"35,552",LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+https://github.com/facebook/yoga,"17,052",Yoga is an embeddable layout engine targeting web standards.
+https://github.com/taskflow/taskflow,"9,729",A General-purpose Task-parallel Programming System using Modern C++
+https://github.com/microsoft/terminal,"94,150","The new Windows Terminal and the original Windows console host, all in the same place!"
+https://github.com/duckdb/duckdb,"20,418",DuckDB is an analytical in-process SQL database management system
+https://github.com/k2-fsa/sherpa-onnx,"2,218","Speech-to-text, text-to-speech, and speaker recognition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter"
+https://github.com/swiftlang/swift,"66,664",The Swift Programming Language
+https://github.com/LizardByte/Sunshine,"15,138",Self-hosted game stream host for Moonlight.
+https://github.com/drogonframework/drogon,"11,042",Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
+https://github.com/ton-blockchain/ton,"2,588",Main TON monorepo
+https://github.com/prusa3d/PrusaSlicer,"7,492","G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)"
+https://github.com/SoftFever/OrcaSlicer,"5,902","G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)"
+https://github.com/NVIDIA/TensorRT,"10,129",NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.
+https://github.com/rapidsai/cudf,"7,986",cuDF - GPU DataFrame Library
+https://github.com/chiteroman/PlayIntegrityFix,"3,897",Fix Play Integrity (and SafetyNet) verdicts.
+https://github.com/zeek/zeek,"6,188",Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
+https://github.com/FreeCAD/FreeCAD,"18,202","This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler."
+https://github.com/tesseract-ocr/tesseract,"59,405",Tesseract Open Source OCR Engine (main repository)
+https://github.com/microsoft/onnxruntime,"13,412","ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
+https://github.com/PixarAnimationStudios/OpenUSD,"5,550",Universal Scene Description
+https://github.com/geode-sdk/geode,637,The ultimate Geometry Dash modding framework
+https://github.com/openvinotoolkit/openvino,"6,294",OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference
+https://github.com/sqlitebrowser/sqlitebrowser,"20,249","Official home of the DB Browser for SQLite (DB4S) project. Previously known as ""SQLite Database Browser"" and ""Database Browser for SQLite"". Website at:"
+https://github.com/WerWolv/ImHex,"36,601","🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM."
+https://github.com/idaholab/moose,"1,649",Multiphysics Object Oriented Simulation Environment
+https://github.com/facebook/folly,"27,483",An open-source C++ library developed and used at Facebook.
+https://github.com/ExpressLRS/ExpressLRS,"3,378",STM32/ESP32/ESP8285-based High-Performance Radio Link for RC applications
+https://github.com/OSGeo/gdal,"4,629",GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.
+https://github.com/PrismLauncher/PrismLauncher,"5,208",A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
+https://github.com/starship/starship,"42,135","☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
+https://github.com/ruffle-rs/ruffle,"14,823",A Flash Player emulator written in Rust
+https://github.com/lapce/lapce,"33,572",Lightning-fast and Powerful Code Editor written in Rust
+https://github.com/pgcentralfoundation/pgrx,"3,389",Build Postgres Extensions with Rust!
+https://github.com/leptos-rs/leptos,"15,218",Build fast web applications with Rust.
+https://github.com/tracel-ai/burn,"7,673","Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals."
+https://github.com/launchbadge/sqlx,"12,335","🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite."
+https://github.com/tokio-rs/axum,"17,204","Ergonomic and modular web framework built with Tokio, Tower, and Hyper"
+https://github.com/YaLTeR/niri,"2,613",A scrollable-tiling Wayland compositor.
+https://github.com/emilk/egui,"20,627",egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+https://github.com/FuelLabs/sway,"62,980",🌴 Empowering everyone to build reliable and efficient smart contracts.
+https://github.com/containers/youki,"5,965",A container runtime written in Rust
+https://github.com/FuelLabs/fuel-core,"58,315",Rust full node implementation of the Fuel v2 protocol.
+https://github.com/helix-editor/helix,"31,089",A post-modern modal text editor.
+https://github.com/dtolnay/cxx,"5,659",Safe interop between Rust and C++
+https://github.com/iced-rs/iced,"23,301","A cross-platform GUI library for Rust, inspired by Elm"
+https://github.com/sunface/rust-by-practice,"11,620","Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects."
+https://github.com/ankitects/anki,"17,710","Anki's shared backend and web components, and the Qt frontend"
+https://github.com/uutils/coreutils,"17,217",Cross-platform Rust rewrite of the GNU coreutils
+https://github.com/ratatui-org/ratatui,"8,743",Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+https://github.com/rolldown/rolldown,"7,165",Fast Rust bundler for JavaScript with Rollup-compatible API.
+https://github.com/ClayAmore/ER-Save-Editor,117,Elden Ring Save Editor. Compatible with PC and Playstation saves.
+https://github.com/LGUG2Z/komorebi,"7,721",A tiling window manager for Windows 🍉
+https://github.com/rustls/rustls,"5,697",A modern TLS library in Rust
+https://github.com/huggingface/text-embeddings-inference,"2,236",A blazing fast inference solution for text embeddings models
+https://github.com/GyulyVGC/sniffnet,"14,350",Comfortably monitor your Internet traffic 🕵️‍♂️
+https://github.com/rust-windowing/winit,"4,547",Window handling library in pure Rust
+https://github.com/astral-sh/uv,"13,339","An extremely fast Python package installer and resolver, written in Rust."
+https://github.com/chroma-core/chroma,"13,379",the AI-native open-source embedding database
+https://github.com/meilisearch/meilisearch,"44,873","A lightning-fast search API that fits effortlessly into your apps, websites, and workflow"
+https://github.com/sxyazi/yazi,"11,317","💥 Blazing fast terminal file manager written in Rust, based on async I/O."
+https://github.com/tw93/Pake,"24,623",🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+https://github.com/EricLBuehler/mistral.rs,"2,801",Blazingly fast LLM inference.
+https://github.com/rustdesk/rustdesk,"67,762","An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer."
+https://github.com/astral-sh/ruff,"28,512","An extremely fast Python linter and code formatter, written in Rust."
+https://github.com/AleoNet/snarkOS,"4,005",A Decentralized Operating System for ZK Applications
+https://github.com/zed-industries/zed,"39,156","Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+https://github.com/alacritty/alacritty,"54,436","A cross-platform, OpenGL terminal emulator."
+https://github.com/TheAlgorithms/Rust,"21,488",All Algorithms implemented in Rust
+https://github.com/pola-rs/polars,"27,536","Dataframes powered by a multithreaded, vectorized query engine, written in Rust"
+https://github.com/swc-project/swc,"30,411",Rust-based platform for the Web
+https://github.com/bevyengine/bevy,"33,423",A refreshingly simple data-driven game engine built in Rust
+https://github.com/rapiz1/rathole,"8,801","A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok."
+https://github.com/rust-lang/rust,"94,674",Empowering everyone to build reliable and efficient software.
+https://github.com/paritytech/polkadot-sdk,"1,618",The Parity Polkadot Blockchain SDK
+https://github.com/cube-js/cube,"17,472",📊 Cube — The Semantic Layer for Building Data Applications
+https://github.com/erebe/wstunnel,"3,673",Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
+https://github.com/Byron/gitoxide,"8,393","An idiomatic, lean, fast & safe pure Rust implementation of Git"
+https://github.com/quickwit-oss/quickwit,"6,966","Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo."
+https://github.com/web-infra-dev/rspack,"7,767",The fast Rust-based web bundler with webpack-compatible API 🦀️
+https://github.com/paradigmxyz/reth,"3,484","Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust"
+https://github.com/ReVanced/revanced-manager,"16,478",💊 Application to use ReVanced on Android
+https://github.com/lollipopkit/flutter_server_box,"3,659",ServerBox - server status & toolbox app using Flutter
+https://github.com/niuhuan/jasmine,"3,251",A comic browser，support Android / iOS / MacOS / Windows / Linux.
+https://github.com/jiangtian616/JHenTai,"2,485",A cross-platform manga app made for e-hentai & exhentai by Flutter
+https://github.com/rive-app/rive-flutter,"1,157",Flutter runtime for Rive
+https://github.com/project-violet/violet,387,Flutter based Viewer App
+https://github.com/serverpod/serverpod,"2,365","Serverpod is a next-generation app and web server, explicitly built for the Flutter and Dart ecosystem."
+https://github.com/JideGuru/FlutterEbookApp,"2,872",A simple Flutter app to Read and Download eBooks.
+https://github.com/Solido/awesome-flutter,"52,066","An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more."
+https://github.com/fzyzcjy/flutter_rust_bridge,"3,727","Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple."
+https://github.com/flutter/flutter,"163,038",Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+https://github.com/guozhigq/pilipala,"4,854",PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
+https://github.com/shorebirdtech/shorebird,"2,066",Code Push for Flutter and other tools for Flutter businesses.
+https://github.com/anandnet/Harmony-Music,560,A cross platform App for streaming Music
+https://github.com/krille-chan/fluffychat,889,The cutest instant messenger in the [matrix]
+https://github.com/GopeedLab/gopeed,"14,676",A modern download manager that supports all platforms. Built with Golang and Flutter.
+https://github.com/flutter/packages,"4,120",A collection of useful packages maintained by the Flutter team
+https://github.com/dart-lang/sdk,"9,933","The Dart SDK, including the VM, dart2js, core libraries, and more."
+https://github.com/pichillilorenzo/flutter_inappwebview,"3,064","A Flutter plugin that allows you to add an inline webview, to use a headless webview, and to open an in-app browser window."
+https://github.com/MaikuB/flutter_local_notifications,"2,409","A Flutter plugin for displaying local notifications on Android, iOS, macOS and Linux"
+https://github.com/ImranR98/Obtainium,"5,805",Get Android app updates straight from the source.
+https://github.com/singerdmx/flutter-quill,"2,425",Rich text editor for Flutter
+https://github.com/ente-io/ente,"11,142","Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos"
+https://github.com/hiddify/hiddify-next,"12,562","Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free."
+https://github.com/KRTirtho/spotube,"26,331",🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+https://github.com/xiaoyaocz/dart_simple_live,"5,055",简简单单的看直播
+https://github.com/localsend/localsend,"37,669",An open-source cross-platform alternative to AirDrop
+https://github.com/wanghongenpin/network_proxy_flutter,"5,576","Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems"
+https://github.com/flyerhq/flutter_chat_ui,"1,502","Actively maintained, community-driven chat UI implementation with an optional Firebase BaaS."
+https://github.com/miru-project/miru-app,"3,234","🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms."
+https://github.com/academind/flutter-complete-guide-course-resources,"1,670",Course resources (code snapshots & slides) for our complete Flutter & Dart course (https://acad.link/flutter).
+https://github.com/h4h13/Paisa,"1,445",Expense manager for Android with Material Design
+https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI,"3,835",
+https://github.com/lichess-org/mobile,"1,097",Lichess mobile app v2
+https://github.com/AppFlowy-IO/AppFlowy,"50,208","Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion."
+https://github.com/gokadzev/Musify,"1,741",Unlock the full potential of music: Stream effortlessly with one app!
+https://github.com/flutter-stripe/flutter_stripe,911,Flutter SDK for Stripe.
+https://github.com/xiaoyaocz/flutter_dmzj,"1,893",动漫之家第三方Flutter客户端
+https://github.com/rrousselGit/riverpod,"5,943",A reactive caching and data-binding framework. Riverpod makes working with asynchronous code a breeze.
+https://github.com/kodjodevf/mangayomi,"1,177","Free and open source application for reading manga and watching anime available on Android, iOS, macOS, Linux and Windows"
+https://github.com/syncfusion/flutter-widgets,"1,473","Syncfusion Flutter widgets libraries include high quality UI widgets and file-format packages to help you create rich, high-quality applications for iOS, Android, and web from a single code base."
+https://github.com/material-foundation/material-color-utilities,"1,567",Color libraries for Material You
+https://github.com/imaNNeo/fl_chart,"6,573","FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, and Radar Chart."
+https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper,"3,449",Script that organizes the Google Takeout archive into one big chronological folder
+https://github.com/media-kit/media-kit,965,A cross-platform video player & audio player for Flutter & Dart.
+https://github.com/goatcorp/Dalamud,"1,007",FFXIV plugin framework and API
+https://github.com/ppy/osu,"14,641",rhythm is just a *click* away!
+https://github.com/Jackett/Jackett,"11,604",API Support for your favorite torrent trackers
+https://github.com/LavaGang/MelonLoader,"2,219",The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono
+https://github.com/Ryujinx/Ryujinx,"33,309",Experimental Nintendo Switch Emulator written in C#
+https://github.com/SteamRE/DepotDownloader,"1,778",Steam depot downloader utilizing the SteamKit2 library.
+https://github.com/dotnet/roslyn,"18,690",The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+https://github.com/MessagePack-CSharp/MessagePack-CSharp,"5,421","Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]"
+https://github.com/BepInEx/BepInEx,"4,503",Unity / XNA game patcher and plugin framework
+https://github.com/Nexus-Mods/NexusMods.App,605,Home of the development of the Nexus Mods App
+https://github.com/microsoft/PowerToys,"106,834",Windows system utilities to maximize productivity
+https://github.com/sn4k3/UVtools,"1,130","MSLA/DLP, file analysis, calibration, repair, conversion and manipulation"
+https://github.com/roflmuffin/CounterStrikeSharp,698,CounterStrikeSharp allows you to write server plugins in C# for Counter-Strike 2/Source2/CS2
+https://github.com/gui-cs/Terminal.Gui,"9,310",Cross Platform Terminal UI toolkit for .NET
+https://github.com/SamboyCoding/Cpp2IL,"1,546",Work-in-progress tool to reverse unity's IL2CPP toolchain.
+https://github.com/goatcorp/FFXIVQuickLauncher,"2,660",Custom launcher for FFXIV
+https://github.com/dotnet/runtime,"14,521",".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps."
+https://github.com/Cysharp/UniTask,"7,596",Provides an efficient allocation free async/await integration for Unity.
+https://github.com/QuantConnect/Lean,"8,920","Lean Algorithmic Trading Engine by QuantConnect (Python, C#)"
+https://github.com/ScottPlot/ScottPlot,"4,844",Interactive plotting library for .NET
+https://github.com/QuestPDF/QuestPDF,"11,093","QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices, exports, etc."
+https://github.com/jellyfin/jellyfin,"31,644",The Free Software Media System
+https://github.com/soulsmods/DSMapStudio,403,"A standalone map/level editor for Demon's Souls, Dark Souls 1/2/3, Bloodborne, Sekiro, and Elden Ring."
+https://github.com/OpenRA/OpenRA,"14,340","Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X."
+https://github.com/Babyhamsta/Aimmy,724,Universal Second Eye for Gamers with Impairments (Universal AI Aim Aligner - ONNX/YOLOv8 - C#)
+https://github.com/marticliment/WingetUI,"10,142",WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+https://github.com/nilaoda/N_m3u8DL-RE,"3,836","Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文."
+https://github.com/microsoft/devhome,"3,458",The new Dev Home experience for Windows!
+https://github.com/CommunityToolkit/Maui,"2,129","The .NET MAUI Community Toolkit is a community-created library that contains .NET MAUI Extensions, Advanced UI/UX Controls, and Behaviors to help make your life as a .NET MAUI developer easier"
+https://github.com/sourcegit-scm/sourcegit,588,Windows/macOS/Linux GUI client for GIT users
+https://github.com/open-telemetry/opentelemetry-dotnet,"3,072",The OpenTelemetry .NET Client
+https://github.com/BenGrn/EldenRingSaveCopier,393,
+https://github.com/dotnet/aspnetcore,"34,777","ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
+https://github.com/Stability-AI/StableSwarmUI,"4,039","StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility."
+https://github.com/files-community/Files,"32,871",Building the best file manager for Windows
+https://github.com/2dust/v2rayN,"63,833","A GUI client for Windows, support Xray core and v2fly core and others"
+https://github.com/space-wizards/space-station-14,"2,109",A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.
+https://github.com/fullstackhero/dotnet-starter-kit,"4,377","Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included."
+https://github.com/microsoft/semantic-kernel,"20,053",Integrate cutting-edge LLM technology quickly and easily into your apps
+https://github.com/lepoco/wpfui,"6,988","WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly."
+https://github.com/dotnet/eShop,"4,615",A reference .NET application implementing an eCommerce site
+https://github.com/YSGStudyHards/DotNetGuide,"5,651",🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、常见面试题、面试须知、简历模板、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。
+https://github.com/bitwarden/server,"14,686","Bitwarden infrastructure/backend (API, database, Docker, etc)."
+https://github.com/BornToBeRoot/NETworkManager,"5,636",A powerful tool for managing networks and troubleshoot network problems!
+https://github.com/nomi-san/parsec-vdd,"1,583",✨ Perfect 4K@240Hz Virtual Display
+https://github.com/AvaloniaUI/Avalonia,"24,510","Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology"
+https://github.com/shaked6540/YoutubePlaylistDownloader,"1,230","A tool to download whole playlists, channels or single videos from youtube and also optionally convert them to almost any format you would like"
+https://github.com/microsoft/WinUI-Gallery,"2,639",This app demonstrates the controls available in WinUI and the Fluent Design System.
+https://github.com/srwi/EverythingToolbar,"8,306",Everything integration for the Windows taskbar.
+https://github.com/Azure/azure-sdk-for-net,"5,130",This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs athttps://learn.microsoft.com/dotnet/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-net.
+https://github.com/actions/runner,"4,640",The Runner for GitHub Actions 🚀
+https://github.com/dotnet/aspire-samples,543,
+https://github.com/wmjordan/PDFPatcher,"8,841",PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
+https://github.com/PowerShell/PowerShell,"43,971",PowerShell for every system!
+https://github.com/Klocman/Bulk-Crap-Uninstaller,"10,382",Remove large amounts of unwanted applications quickly.
+https://github.com/dotnet/aspire,"3,346","An opinionated, cloud ready stack for building observable, production ready, distributed applications in .NET"
+https://github.com/Tyrrrz/YoutubeDownloader,"7,168",Downloads videos and playlists from YouTube
+https://github.com/pedroslopez/whatsapp-web.js,"14,154",A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+https://github.com/Koenkk/zigbee2mqtt,"11,368","Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨"
+https://github.com/TheOdinProject/curriculum,"9,064",The open curriculum for learning web development
+https://github.com/overleaf/overleaf,"12,976",A web-based collaborative LaTeX editor
+https://github.com/wg-easy/wg-easy,"12,626",The easiest way to run WireGuard VPN + Web-based Admin UI.
+https://github.com/soumyajit4419/Portfolio,"3,953",My self coded personal website build with React.js
+https://github.com/SillyTavern/SillyTavern,"6,700",LLM Frontend for Power Users.
+https://github.com/mattboldt/typed.js,"14,987",A JavaScript Typing Animation Library
+https://github.com/antfu/vscode-file-nesting-config,"2,796",Config of File Nesting for VS Code
+https://github.com/kkevsekk1/AutoX,"6,621","A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)"
+https://github.com/mrdoob/three.js,"100,227",JavaScript 3D Library.
+https://github.com/pythongosssss/ComfyUI-Custom-Scripts,"1,349","Enhancements & experiments for ComfyUI, mostly focusing on UI features"
+https://github.com/beefproject/beef,"9,518",The Browser Exploitation Framework Project
+https://github.com/ether/etherpad-lite,"16,119",Etherpad: A modern really-real-time collaborative document editor.
+https://github.com/openwrt/luci,"6,061",LuCI - OpenWrt Configuration Interface
+https://github.com/twbs/icons,"7,237",Official open source SVG icon library for Bootstrap.
+https://github.com/facebook/create-react-app,"102,177",Set up a modern web app by running one command.
+https://github.com/nodejs/node,"105,038",Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/OpenCTI-Platform/opencti,"5,126",Open Cyber Threat Intelligence Platform
+https://github.com/sampotts/plyr,"25,973","A simple HTML5, YouTube and Vimeo player"
+https://github.com/SuhailTechInfo/Suhail-Md,"3,480","meet Suhail-Md, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail-Md brings a world of excitement and joy to your chats ✨🤖"
+https://github.com/CesiumGS/cesium,"12,358",An open-source JavaScript library for world-class 3D globes and maps 🌎
+https://github.com/ciiiii/cloudflare-docker-proxy,819,A docker registry proxy run on cloudflare worker.
+https://github.com/liriliri/eruda,"18,027",Console for mobile browsers
+https://github.com/vercel/next.js,"122,606",The React Framework
+https://github.com/node-red/node-red,"18,978",Low-code programming for event-driven applications
+https://github.com/pmndrs/drei,"7,800",🥉 useful helpers for react-three-fiber
+https://github.com/tangly1024/NotionNext,"6,503","使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)"
+https://github.com/eslint/eslint,"24,572",Find and fix problems in your JavaScript code.
+https://github.com/sveltejs/svelte,"77,395",Cybernetically enhanced web apps
+https://github.com/expressjs/express,"64,288","Fast, unopinionated, minimalist web framework for node."
+https://github.com/songquanpeng/one-api,"15,969","OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI."
+https://github.com/cuixueshe/earthworm,"4,031",Learning English through the method of constructing sentences with conjunctions
+https://github.com/xenova/transformers.js,"9,843","State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!"
+https://github.com/iptv-org/iptv,"80,809",Collection of publicly available IPTV channels from all over the world
+https://github.com/gchq/CyberChef,"27,157","The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis"
+https://github.com/bigskysoftware/htmx,"35,048",</> htmx - high power tools for HTML
+https://github.com/Asabeneh/30-Days-Of-JavaScript,"41,635","30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw"
+https://github.com/blackmatrix7/ios_rule_script,"16,219",分流规则、重写写规则及脚本。
+https://github.com/ltdrdata/ComfyUI-Manager,"4,523","ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI."
+https://github.com/LeCoupa/awesome-cheatsheets,"38,383","👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file."
+https://github.com/gorhill/uBlock,"44,404",uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+https://github.com/langflow-ai/langflow,"19,846","⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic."
+https://github.com/TheRealJoelmatic/RemoveAdblockThing,"5,893","The intrusive ""Ad blocker are not allowed on YouTube"" message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection"
+https://github.com/UnblockNeteaseMusic/server,"5,924",Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
+https://github.com/DataDog/documentation,418,The source for Datadog's documentation site.
+https://github.com/sudheerj/reactjs-interview-questions,"37,750",List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+https://github.com/remoteintech/remote-jobs,"28,226",A list of semi to fully remote-friendly companies (jobs) in tech.
+https://github.com/4ian/GDevelop,"7,364","🎮 Open-source, cross-platform game engine designed to be used by everyone."
+https://github.com/projectdiscovery/nuclei-templates,"8,403",Community curated list of templates for the nuclei engine to find security vulnerabilities.
+https://github.com/fabricjs/fabric.js,"28,014","Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
+https://github.com/simple-icons/simple-icons,"18,609",SVG icons for popular brands
+https://github.com/IrisShaders/Iris,"3,197",A modern shaders mod for Minecraft compatible with existing OptiFine shader packs
+https://github.com/GrimAnticheat/Grim,981,"Fully async, multithreaded, predictive, open source, 3.01 reach, 1.005 timer, 0.01% speed, 99.99% antikb, ""bypassable"" 1.8-1.20 anticheat."
+https://github.com/constanline/XQuickEnergy,"1,217",
+https://github.com/Stirling-Tools/Stirling-PDF,"29,500",#1 Locally hosted web application that allows you to perform various operations on PDF files
+https://github.com/PaperMC/Velocity,"1,672","The modern, next-generation Minecraft server proxy."
+https://github.com/CatVodTVOfficial/TVBoxOSC,"7,943",真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。
+https://github.com/RikkaApps/Shizuku-API,858,The API and the developer guide for Shizuku and Sui.
+https://github.com/ReChronoRain/HyperCeiler,"1,874",MIUI & HyperOS enhancement module - Make MIUI & HyperOS Great Again!
+https://github.com/SkriptLang/Skript,"1,016","Skript is a Spigot plugin which allows server admins to customize their server easily, but without the hassle of programming a plugin or asking/paying someone to program a plugin for them."
+https://github.com/unicode-org/cldr,868,The home of the Unicode Common Locale Data Repository
+https://github.com/ViaVersion/ViaVersion,"1,185",Allows the connection of newer clients to older server versions for Minecraft servers.
+https://github.com/Grasscutters/Grasscutter,"15,848",A server software reimplementation for a certain anime game.
+https://github.com/dropwizard/dropwizard,"8,475",A damn simple library for building production-ready RESTful web services.
+https://github.com/google/guava,"49,658",Google core libraries for Java
+https://github.com/xiaojieonly/Ehviewer_CN_SXJ,"11,959",ehviewer，用爱发电，快乐前行
+https://github.com/runtimeverification/k,429,K Framework Tools 7.0
+https://github.com/confluentinc/ksql,"5,866",The database purpose-built for stream processing applications.
+https://github.com/tencentmusic/supersonic,"1,437",SuperSonic is the next-generation BI platform that integrates Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.
+https://github.com/TeamNewPipe/NewPipe,"29,412",A libre lightweight streaming front-end for Android.
+https://github.com/spring-projects/spring-boot,"73,538",Spring Boot
+https://github.com/MeteorDevelopment/meteor-client,"1,973",Based Minecraft utility mod.
+https://github.com/dataease/dataease,"16,193",🔥 人人可用的开源数据可视化分析工具，帆软、Tableau 等商业 BI 工具的开源替代。
+https://github.com/gunnarmorling/1brc,"5,578",1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+https://github.com/alibaba/DataX,"15,438",DataX是阿里云DataWorks数据集成的开源版本。
+https://github.com/alibaba/spring-cloud-alibaba,"27,556",Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
+https://github.com/alibaba/COLA,"11,545",🥤 COLA: Clean Object-oriented & Layered Architecture
+https://github.com/mywalkb/LSPosed_mod,"2,008",My changes to LSPosed
+https://github.com/apple/pkl,"9,830",A configuration as code language with rich validation and tooling.
+https://github.com/kekingcn/kkFileView,"10,185",Universal File Online Preview Project based on Spring-Boot
+https://github.com/provectus/kafka-ui,"8,929",Open-Source Web UI for Apache Kafka Management
+https://github.com/hkhcoder/vprofile-project,172,
+https://github.com/WuKongOpenSource/WukongCRM-11.0-JAVA,"5,941",悟空CRM-基于Spring Cloud Alibaba微服务架构 +vue ElementUI的前后端分离CRM系统
+https://github.com/PaperMC/Paper,"9,339","The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies"
+https://github.com/kunal-kushwaha/DSA-Bootcamp-Java,"15,932","This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs."
+https://github.com/keycloak/keycloak,"20,859",Open Source Identity and Access Management For Modern Applications and Services
+https://github.com/PojavLauncherTeam/PojavLauncher,"6,072",A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
+https://github.com/termux/termux-app,"32,785",Termux - a terminal emulator application for Android OS extendible by variety of packages.
+https://github.com/apache/iceberg,"5,848",Apache Iceberg
+https://github.com/flyway/flyway,"7,910",Flyway by Redgate • Database Migrations Made Easy.
+https://github.com/GeyserMC/Geyser,"4,585",A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
+https://github.com/TheAlgorithms/Java,"57,551",All Algorithms implemented in Java
+https://github.com/thingsboard/thingsboard,"16,106","Open-source IoT Platform - Device management, data collection, processing and visualization."
+https://github.com/datastrato/gravitino,654,"World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake."
+https://github.com/krahets/hello-algo,"79,137","《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing"
+https://github.com/LSPosed/LSPatch,"6,317",LSPatch: A non-root Xposed framework extending from LSPosed
+https://github.com/IzzelAliz/Arclight,"1,421",A Bukkit(1.19/1.20) server implementation in modding environment using Mixin. ⚡
+https://github.com/prestodb/presto,"15,739",The official home of the Presto distributed SQL query engine for big data
+https://github.com/runelite/runelite,"4,662",Open source Old School RuneScape client
+https://github.com/jeecgboot/JeecgBoot,"38,407",🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
+https://github.com/cabaletta/baritone,"6,845",google maps for block game
+https://github.com/apereo/cas,"10,758",Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
