@@ -1,0 +1,294 @@
+lang,url,stars,description
+C,https://github.com/ntop/nDPI,"3,865",Open Source Deep Packet Inspection Software Toolkit
+C,https://github.com/SoftEtherVPN/SoftEtherVPN,"11,740",Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available athttps://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
+C,https://github.com/zephyrproject-rtos/zephyr,"11,052","Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures."
+C,https://github.com/asg017/sqlite-vec,"4,443",A vector search SQLite extension that runs anywhere!
+C,https://github.com/pgvector/pgvector,"12,991",Open-source vector similarity search for Postgres
+C,https://github.com/netero1010/EDRSilencer,"1,482",A tool uses Windows Filtering Platform (WFP) to block Endpoint Detection and Response (EDR) agents from reporting security events to the server.
+C,https://github.com/RediSearch/RediSearch,"5,549","A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations."
+C,https://github.com/ValdikSS/GoodbyeDPI,"25,669",GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
+C,https://github.com/BasedHardware/omi,"3,746",AI wearables
+C,https://github.com/sonic-net/sonic-buildimage,747,Scripts which perform an installable binary image build for SONiC
+C,https://github.com/78/xiaozhi-esp32,595,Build your own AI friend
+C,https://github.com/redis/redis,"67,380","Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps."
+C,https://github.com/espeak-ng/espeak-ng,"4,304",eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
+C,https://github.com/karpathy/llama2.c,"17,577",Inference Llama 2 in one file of pure C
+C,https://github.com/quickjs-ng/quickjs,"1,122","QuickJS, the Next Generation: a mighty JavaScript engine"
+C,https://github.com/bmax121/KernelPatch,710,Patching and hooking the Linux kernel with only a stripped Linux kernel image.
+C,https://github.com/TheAlgorithms/C,"19,241","Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes."
+C#,https://github.com/dotnet/machinelearning,"9,072",ML.NET is an open source and cross-platform machine learning framework for .NET.
+C#,https://github.com/openai/openai-dotnet,"1,569",The official .NET library for the OpenAI API
+C#,https://github.com/mcmonkeyprojects/SwarmUI,"1,571","SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility."
+C#,https://github.com/babalae/better-genshin-impact,"5,604",📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集 - UI Automation Testing Tools For Genshin Impact
+C#,https://github.com/dotnet-architecture/eShopOnWeb,"10,238","Sample ASP.NET Core 8.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder."
+C#,https://github.com/mRemoteNG/mRemoteNG,"8,934","mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager."
+C#,https://github.com/Unity-Technologies/ml-agents,"17,326",The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
+C#,https://github.com/NimblePros/eShopOnWeb,100,"Sample ASP.NET Core 9.0 reference application, powered by Microsoft, demonstrating a domain-centric application architecture with monolithic deployment model. Download the eBook PDF from docs folder."
+C#,https://github.com/microsoft/azure-pipelines-agent,"1,723",Azure Pipelines Agent 🚀
+C#,https://github.com/SciSharp/LLamaSharp,"2,749",A C#/.NET library to run LLM (🦙LLaMA/LLaVA) on your local device efficiently.
+C#,https://github.com/Azure-Samples/cognitive-services-speech-sdk,"2,991",Sample code for the Microsoft Cognitive Services Speech SDK
+C#,https://github.com/notscuffed/repkg,"2,195",Wallpaper engine PKG extractor/TEX to image converter
+C#,https://github.com/codeproject/CodeProject.AI-Server,698,"CodeProject.AI Server is a self contained service that software developers can include in, and distribute with, their applications in order to augment their apps with the power of AI."
+C#,https://github.com/LykosAI/StabilityMatrix,"4,973",Multi-Platform Package Manager for Stable Diffusion
+C#,https://github.com/QuestPDF/QuestPDF,"12,182","QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices, exports, etc."
+C#,https://github.com/microsoft/semantic-kernel,"22,290",Integrate cutting-edge LLM technology quickly and easily into your apps
+C#,https://github.com/Babyhamsta/Aimmy,913,Universal Second Eye for Gamers with Impairments (Universal AI Aim Aligner - ONNX/YOLOv8 - C#)
+C#,https://github.com/microsoft/PowerApps-Samples,"1,552","Sample code for Power Apps, including Dataverse, model-driven apps, canvas apps, Power Apps component framework, portals, and AI Builder."
+C#,https://github.com/microsoft/kernel-memory,"1,630","RAG architecture: index and query any data using LLM and natural language, track sources, show citations, asynchronous memory patterns."
+C#,https://github.com/icsharpcode/ILSpy,"21,753",".NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!"
+C#,https://github.com/Tyrrrz/DiscordChatExporter,"7,838",Exports Discord chat logs to a file
+C++,https://github.com/facebookresearch/habitat-sim,"2,641","A flexible, high-performance 3D simulator for Embodied AI research."
+C++,https://github.com/microsoft/onnxruntime,"14,970","ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
+C++,https://github.com/oneapi-src/oneDNN,"3,618",oneAPI Deep Neural Network Library (oneDNN)
+C++,https://github.com/k2-fsa/sherpa-onnx,"3,817","Speech-to-text, text-to-speech, speaker diarization, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter, Object Pascal, Lazarus, Rust"
+C++,https://github.com/ggerganov/whisper.cpp,"36,230",Port of OpenAI's Whisper model in C/C++
+C++,https://github.com/bulletphysics/bullet3,"12,611","Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc."
+C++,https://github.com/tensorflow/tflite-micro,"1,955",Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).
+C++,https://github.com/pytorch/executorch,"2,216","On-device AI across mobile, embedded and edge for PyTorch"
+C++,https://github.com/NVIDIA/cuda-quantum,540,C++ and Python support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows
+C++,https://github.com/microsoft/LightGBM,"16,675","A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks."
+C++,https://github.com/OSGeo/gdal,"4,917",GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.
+C++,https://github.com/AaronFeng753/Waifu2x-Extension-GUI,"13,304","Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN, and ACNet."
+C++,https://github.com/apache/brpc,"16,558","brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. ""brpc"" means ""better RPC""."
+C++,https://github.com/MariaDB/server,"5,689","MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry."
+C++,https://github.com/lich0821/WeChatFerry,"4,322",微信机器人底层框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。WeChat Robot Hook.
+C++,https://github.com/PaddlePaddle/Paddle,"22,290",PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
+C++,https://github.com/iree-org/iree,"2,888",A retargetable MLIR-based machine learning compiler and runtime toolkit.
+C++,https://github.com/rhasspy/piper,"6,626","A fast, local neural text to speech system"
+C++,https://github.com/openvinotoolkit/openvino,"7,438",OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference
+C++,https://github.com/k4yt3x/video2x,"10,826","A machine learning-based lossless video super resolution framework. Est. Hack the Valley II, 2018."
+C++,https://github.com/ggerganov/llama.cpp,"69,197",LLM inference in C/C++
+C++,https://github.com/ggerganov/ggml,"11,285",Tensor library for machine learning
+C++,https://github.com/microsoft/winget-cli,"23,424","WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface)."
+C++,https://github.com/alibaba/MNN,"8,828","MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba"
+C++,https://github.com/rl-tools/rl-tools,520,The Fastest Deep Reinforcement Learning Library
+C++,https://github.com/NVIDIA/TensorRT,"10,806",NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.
+C++,https://github.com/NVIDIA/TensorRT-LLM,"8,890",TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
+C++,https://github.com/tenstorrent/tt-metal,551,"🤘 TT-NN operator library, and TT-Metalium low level kernel programming model."
+C++,https://github.com/microsoft/AirSim,"16,523","Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research"
+C++,https://github.com/leejet/stable-diffusion.cpp,"3,547",Stable Diffusion and Flux in pure C/C++
+C++,https://github.com/mumble-voip/mumble,"6,452","Mumble is an open-source, low-latency, high quality voice chat software."
+C++,https://github.com/google-ai-edge/mediapipe,"27,821","Cross-platform, customizable ML solutions for live and streaming media."
+C++,https://github.com/tensorflow/tensorflow,"186,828",An Open Source Machine Learning Framework for Everyone
+C++,https://github.com/TheAlgorithms/C-Plus-Plus,"30,946","Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes."
+C++,https://github.com/microsoft/proxy,"2,148",Proxy: Next Generation Polymorphism in C++
+JS,https://github.com/qishibo/AnotherRedisDesktopManager,"30,678","🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac."
+JS,https://github.com/Mintplex-Labs/anything-llm,"28,621","The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more."
+JS,https://github.com/dropzone/dropzone,"18,127",Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
+JS,https://github.com/nextcloud/spreed,"1,665","🗨️ Nextcloud Talk – chat, video & audio calls for Nextcloud"
+JS,https://github.com/ToolJet/ToolJet,"33,317","Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀"
+JS,https://github.com/InternLM/MindSearch,"5,484",🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
+JS,https://github.com/xszyou/Fay,"9,462","Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants."
+JS,https://github.com/dotnet/eShopSupport,369,A reference .NET application using AI for a customer support ticketing system
+JS,https://github.com/songquanpeng/one-api,"20,056","OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI."
+JS,https://github.com/huggingface/transformers.js,"12,181","State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!"
+JS,https://github.com/poloclub/transformer-explainer,"3,590",Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
+JS,https://github.com/wangrongding/wechat-bot,"5,740",🤖一个基于 WeChaty 结合 OpenAi ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
+JS,https://github.com/SillyTavern/SillyTavern,"8,797",LLM Frontend for Power Users.
+JS,https://github.com/Dooy/chatgpt-web-midjourney-proxy,"5,263","One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika; Simultaneous support Web / PWA / Linux / Win / MacOS platform"
+JS,https://github.com/lencx/Noi,"6,602","🚀 Power Your World with AI - Explore, Extend, Empower."
+Java,https://github.com/vespa-engine/vespa,"5,848","AI + Data, online.https://vespa.ai"
+Java,https://github.com/unitycatalog/unitycatalog,"2,479","Open, Multi-modal Catalog for Data & AI"
+Java,https://github.com/tencentmusic/supersonic,"2,421",SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.
+Java,https://github.com/spring-projects/spring-ai,"3,393",An Application Framework for AI Engineering
+Java,https://github.com/comet-ml/opik,"2,518",Open-source end-to-end LLM Development Platform
+Java,https://github.com/YunaiV/ruoyi-vue-pro,"28,312",🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+Java,https://github.com/googlesamples/mlkit,"3,581",A collection of sample apps to demonstrate how to use Google's ML Kit APIs on Android and iOS
+Java,https://github.com/OpenSPG/openspg,746,"OpenSPG is a Knowledge Graph Engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic-enhanced Programmable Graph) framework. Core Capabilities: 1) domain model constrained knowledge modeling, 2) facts and logic fused representation, 3) KAG will be natively supported soon, so please stay tuned..."
+Java,https://github.com/OpenAPITools/openapi-generator,"22,143","OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)"
+Java,https://github.com/apache/seatunnel,"8,115","SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool."
+Java,https://github.com/lakesoul-io/LakeSoul,"2,463","LakeSoul is an end-to-end, realtime and cloud native Lakehouse framework with fast data ingestion, concurrent update and incremental data analytics on cloud storages for both BI and AI applications."
+Java,https://github.com/datahub-project/datahub,"10,035",The Metadata Platform for your Data and AI Stack
+Java,https://github.com/deepjavalibrary/djl,"4,159",An Engine-Agnostic Deep Learning Framework in Java
+Java,https://github.com/CodePhiliaX/Chat2DB,"17,518","🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more."
+Java,https://github.com/bumptech/glide,"34,678",An image loading and caching library for Android focused on smooth scrolling
+Rust,https://github.com/huggingface/candle,"15,932",Minimalist ML framework for Rust
+Rust,https://github.com/MystenLabs/sui,"6,336","Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language"
+Rust,https://github.com/lencx/ChatGPT,"53,222","🔮 ChatGPT Desktop Application (Mac, Windows and Linux)"
+Rust,https://github.com/chroma-core/chroma,"15,822",the AI-native open-source embedding database
+Rust,https://github.com/qdrant/qdrant,"20,975","Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloudhttps://cloud.qdrant.io/"
+Rust,https://github.com/timescale/pgvectorscale,"1,420","A complement to pgvector for high performance, cost efficient vector search on large workloads."
+Rust,https://github.com/tracel-ai/burn,"9,038","Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals."
+Rust,https://github.com/lancedb/lancedb,"4,958","Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!"
+Rust,https://github.com/EricLBuehler/mistral.rs,"4,601",Blazingly fast LLM inference.
+Rust,https://github.com/cube-js/cube,"18,012","📊 Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics"
+Rust,https://github.com/0xPlaygrounds/rig,919,"⚙️🦀 Build portable, modular & lightweight Fullstack Agents"
+Rust,https://github.com/tensorzero/tensorzero,"1,188","TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models."
+Rust,https://github.com/codestoryai/sidecar,230,"Sidecar is the AI brains for the Aide editor and works alongside it, locally on your machine"
+Rust,https://github.com/mediar-ai/screenpipe,"10,628","one API to get all user desktop data (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control"
+Rust,https://github.com/katanemo/archgw,959,"Arch is an intelligent gateway for agents. Engineered with (fast) LLMs for the secure handling, rich observability, and seamless integration of prompts with your APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy."
+Rust,https://github.com/mufeedvh/code2prompt,"2,324","A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting."
+Rust,https://github.com/lakehq/sail,562,"LakeSail's computation framework with a mission to unify stream processing, batch processing, and compute-intensive (AI) workloads."
+Rust,https://github.com/tensorchord/VectorChord,296,"Scalable, Fast, and Disk-friendly Vector search in Postgres, the Successor of pgvecto.rs."
+Rust,https://github.com/TabbyML/tabby,"22,177",Self-hosted AI coding assistant
+Rust,https://github.com/GraphiteEditor/Graphite,"9,812","2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow."
+all,https://github.com/coaidev/coai,"7,408",🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
+all,https://github.com/Bin-Huang/chatbox,"23,752","User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)"
+all,https://github.com/ai16z/eliza,"4,539",Autonomous agents for everyone
+all,https://github.com/ollama/ollama,"102,159","Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models."
+all,https://github.com/mudler/LocalAI,"26,805","🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference"
+all,https://github.com/GoogleCloudPlatform/generative-ai,"8,604","Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI"
+all,https://github.com/Expensify/App,"3,887","Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code."
+all,https://github.com/ItzCrazyKns/Perplexica,"17,384",Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+all,https://github.com/cline/cline,"13,844","Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way."
+all,https://github.com/n8n-io/self-hosted-ai-starter-kit,"4,131","The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows."
+all,https://github.com/unclecode/crawl4ai,"18,241","🔥🕷️ Crawl4AI: Crawl Smarter, Faster, Freely. For AI."
+all,https://github.com/skills/copilot-codespaces-vscode,876,Develop with AI-powered code suggestions using GitHub Copilot and VS Code
+all,https://github.com/vercel/ai-chatbot,"10,215","A full-featured, hackable Next.js AI chatbot built by Vercel"
+all,https://github.com/CopilotKit/CopilotKit,"13,881","React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁"
+all,https://github.com/lobehub/lobe-chat,"48,845","🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application."
+all,https://github.com/awslabs/multi-agent-orchestrator,"2,854",Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+all,https://github.com/bluesky-social/pds,"1,130","Bluesky PDS (Personal Data Server) container image, compose file, and documentation"
+all,https://github.com/yamadashy/repomix,"4,679","📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini."
+all,https://github.com/influxdata/telegraf,"14,713","Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
+all,https://github.com/primefaces/primevue,"10,726",Next Generation Vue UI Component Library
+all,https://github.com/danielmiessler/fabric,"25,164",fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+all,https://github.com/milvus-io/milvus,"30,526","A cloud-native vector database, storage for next generation AI applications"
+all,https://github.com/pingcap/autoflow,"1,393",pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo:https://tidb.ai
+all,https://github.com/timescale/pgai,"2,129","A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL"
+all,https://github.com/tmc/langchaingo,"5,054","LangChain for Go, the easiest way to write LLM-based programs in Go"
+all,https://github.com/microsoft/genaiscript,"1,871",Automatable GenAI Scripting
+all,https://github.com/ml-tooling/best-of-ml-python,"17,493",🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+all,https://github.com/zmh-program/chatnio,"6,131",🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
+all,https://github.com/ntdevlabs/tiny11builder,"10,237",Scripts to build a trimmed-down Windows 11 image.
+all,https://github.com/itzg/docker-minecraft-server,"9,865",Docker image that provides a Minecraft Server that will automatically download selected version at startup
+all,https://github.com/gitroomhq/postiz-app,"13,805","📨 The ultimate social media scheduling tool, with a bunch of AI 🤖"
+all,https://github.com/wagoodman/dive,"48,078",A tool for exploring each layer in a docker image
+all,https://github.com/open-mmlab/Amphion,"7,794","Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development."
+all,https://github.com/openai/openai-cookbook,"60,176",Examples and guides for using the OpenAI API
+all,https://github.com/projectdiscovery/katana,"11,790",A next-generation crawling and spidering framework.
+all,https://github.com/meta-llama/llama-recipes,"14,784","Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger."
+all,https://github.com/f/awesome-chatgpt-prompts,"112,875",This repo includes ChatGPT prompt curation to use ChatGPT better.
+all,https://github.com/karthink/gptel,"1,566",A simple LLM client for Emacs
+dart,https://github.com/Mobile-Artificial-Intelligence/maid,"1,494","Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely."
+dart,https://github.com/mylxsw/aidea,"6,511",AIdea 是一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
+dart,https://github.com/AOSSIE-Org/Resonate,192,"Clubhouse, but Open Source. A social voice platform."
+dart,https://github.com/AppFlowy-IO/AppFlowy,"58,726","Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion."
+dart,https://github.com/suesitran/public_chat,22,A simple public chat for anyone to chat with Gemini
+dart,https://github.com/flyerhq/flutter_chat_ui,"1,671","Actively maintained, community-driven chat UI implementation with an optional Firebase BaaS."
+dart,https://github.com/flutter-ml/google_ml_kit_flutter,"1,000",A flutter plugin that implements Google's standalone ML Kit
+python,https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator,835,"A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices."
+python,https://github.com/apache/tvm,"11,779","Open deep learning compiler stack for cpu, gpu and specialized accelerators"
+python,https://github.com/openai/swarm,"15,868","Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team."
+python,https://github.com/instructlab/instructlab,954,InstructLab Command-Line Interface. Use this to chat with a model and execute the InstructLab workflow to train a model using custom taxonomy data.
+python,https://github.com/microsoft/RD-Agent,"1,117","Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which lets AI drive data-driven AI."
+python,https://github.com/QwenLM/Qwen,"14,520",The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
+python,https://github.com/QwenLM/Qwen2.5-Coder,"3,424","Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud."
+python,https://github.com/Azure-Samples/graphrag-accelerator,"1,857",One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure
+python,https://github.com/apify/crawlee-python,"4,596","Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation."
+python,https://github.com/livekit/agents,"3,985",Build real-time multimodal AI applications 🤖🎙️📹
+python,https://github.com/qodo-ai/qodo-cover,"4,643",Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
+python,https://github.com/QwenLM/Qwen-Agent,"4,457","Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension."
+python,https://github.com/neuml/txtai,"9,325","💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows"
+python,https://github.com/VRSEN/agency-swarm,"2,912",The only reliable agent framework built on top of the latest OpenAI Assistants API.
+python,https://github.com/scikit-learn/scikit-learn,"60,472",scikit-learn: machine learning in Python
+python,https://github.com/All-Hands-AI/OpenHands,"38,497","🙌 OpenHands: Code Less, Make More"
+python,https://github.com/Cinnamon/kotaemon,"17,323",An open-source RAG-based tool for chatting with your documents.
+python,https://github.com/THUDM/CogVideo,"9,125",text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
+python,https://github.com/mikf/gallery-dl,"11,935",Command-line program to download image galleries and collections from several image hosting sites
+python,https://github.com/hacksider/Deep-Live-Cam,"40,815",real time face swap and one-click video deepfake with only a single image
+python,https://github.com/explodinggradients/ragas,"7,217",Supercharge Your LLM Application Evaluations 🚀
+python,https://github.com/andrewyng/aisuite,"8,252","Simple, unified interface to multiple Generative AI providers"
+python,https://github.com/Byaidu/PDFMathTranslate,"6,591",PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
+python,https://github.com/meta-llama/llama-stack,"4,965",Composable building blocks to build Llama Apps
+python,https://github.com/ErikBjare/gptme,"2,408","Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision."
+python,https://github.com/MetaCubeX/mihomo,"16,403",A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
+python,https://github.com/google/mesop,"5,460",Rapidly build AI apps in Python
+python,https://github.com/stanford-oval/storm,"13,228",An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+python,https://github.com/Avaiga/taipy,"15,314",Turns Data and AI algorithms into production-ready web applications in no time.
+python,https://github.com/NVIDIA/TransformerEngine,"1,951","A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit floating point (FP8) precision on Hopper and Ada GPUs, to provide better performance with lower memory utilization in both training and inference."
+python,https://github.com/Pythagora-io/gpt-pilot,"31,815",The first real AI developer
+python,https://github.com/d2l-ai/d2l-en,"23,879","Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge."
+python,https://github.com/naver/mast3r,"1,303",Grounding Image Matching in 3D with MASt3R
+python,https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming,"4,718",An 8 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.
+python,https://github.com/ray-project/ray,"33,893",Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
+python,https://github.com/vanna-ai/vanna,"11,854",🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+python,https://github.com/cleanlab/cleanlab,"9,734","The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels."
+python,https://github.com/projectmesa/mesa,"2,636","Mesa is an open-source Python library for agent-based modeling, ideal for simulating complex systems and exploring emergent behaviors."
+python,https://github.com/m-bain/whisperX,"12,375",WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)
+python,https://github.com/microsoft/autogen,"35,852",A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
+python,https://github.com/black-forest-labs/flux,"18,390",Official inference repo for FLUX.1 models
+python,https://github.com/TEN-framework/TEN-Agent,"2,621","TEN Agent is a realtime conversational AI agent powered by TEN. It seamlessly integrates the OpenAI Realtime API, RTC capabilities, and advanced features like weather updates, web search, computer vision, and Retrieval-Augmented Generation (RAG)."
+python,https://github.com/langflow-ai/langflow,"38,832","Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database."
+python,https://github.com/khoj-ai/khoj,"17,248","Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free."
+python,https://github.com/DS4SD/docling,"14,522",Get your documents ready for gen AI
+python,https://github.com/microsoft/TinyTroupe,"4,958",LLM-powered multiagent persona simulation for imagination enhancement and business insights.
+python,https://github.com/onyx-dot-app/onyx,"11,097",Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
+python,https://github.com/QuivrHQ/MegaParse,"4,362","File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs."
+python,https://github.com/phidatahq/phidata,"16,303","Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI."
+python,https://github.com/frdel/agent-zero,"5,102",Agent Zero AI framework
+python,https://github.com/pydantic/pydantic-ai,"3,870",Agent Framework / shim to use Pydantic with LLMs
+python,https://github.com/swirlai/swirl-search,"2,226","AI Search & RAG Without Moving Your Data. Get instant answers from your company's knowledge across 100+ apps while keeping data secure. Deploy in minutes, not months."
+python,https://github.com/FoundationVision/VAR,"6,185","[NeurIPS 2024 Oral][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of ""Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction"". An *ultra-simple, user-friendly yet state-of-the-art* codebase for autoregressive image generation!"
+python,https://github.com/DrewThomasson/ebook2audiobook,971,"Generates an audiobook with chapters and ebook metadata using Calibre and Xtts from Coqui tts, and with optional voice cloning, and supports multiple languages"
+python,https://github.com/Shubhamsaboo/awesome-llm-apps,"5,372","Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models."
+python,https://github.com/keras-team/keras,"62,090",Deep Learning for humans
+python,https://github.com/NVIDIA/garak,"2,797",the LLM vulnerability scanner
+python,https://github.com/crewAIInc/crewAI,"22,231","Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks."
+python,https://github.com/ComposioHQ/composio,"13,491",Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
+python,https://github.com/comfyanonymous/ComfyUI,"59,463","The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface."
+python,https://github.com/Significant-Gravitas/AutoGPT,"169,000","AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
+python,https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI,"25,074",Easily train a good VC model with voice data <= 10 mins!
+python,https://github.com/NVlabs/VILA,"2,107","VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)"
+python,https://github.com/pathwaycom/pathway,"6,058","Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+python,https://github.com/bunkerity/bunkerweb,"6,995",🛡️ Open-source and next-generation Web Application Firewall (WAF)
+python,https://github.com/onnx/onnx,"17,999",Open standard for machine learning interoperability
+python,https://github.com/openai/openai-python,"23,207",The official Python library for the OpenAI API
+python,https://github.com/Sinaptik-AI/pandas-ai,"13,590","Chat with your database (SQL, CSV, pandas, polars, mongodb, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG."
+python,https://github.com/hpcaitech/Open-Sora,"22,387",Open-Sora: Democratizing Efficient Video Production for All
+python,https://github.com/microsoft/DeepSpeed,"35,642","DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective."
+python,https://github.com/dottxt-ai/outlines,"9,813",Structured Text Generation
+python,https://github.com/letta-ai/letta,"13,182",Letta (formerly MemGPT) is a framework for creating LLM services with memory.
+python,https://github.com/PacktPublishing/LLM-Engineers-Handbook,"1,931",The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices
+python,https://github.com/lanqian528/chat2api,"2,277",A service that can convert ChatGPT on the web to OpenAI API format.
+python,https://github.com/lllyasviel/ControlNet,"30,724",Let us control diffusion models!
+python,https://github.com/Azure-Samples/azure-search-openai-demo,"6,393","A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences."
+python,https://github.com/AUTOMATIC1111/stable-diffusion-webui,"143,783",Stable Diffusion web UI
+python,https://github.com/real-stanford/diffusion_policy,"1,701",[RSS 2023] Diffusion Policy Visuomotor Policy Learning via Action Diffusion
+python,https://github.com/iperov/DeepFaceLab,"16,485",DeepFaceLab is the leading software for creating deepfakes.
+python,https://github.com/levihsu/OOTDiffusion,"5,708",Official implementation of OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on
+python,https://github.com/encode/httpx,"13,389",A next generation HTTP client for Python. 🦋
+python,https://github.com/NexaAI/nexa-sdk,"4,434","Nexa SDK is a comprehensive toolkit for supporting GGML and ONNX models. It supports text generation, image generation, vision-language models (VLM), Audio Language Model, auto-speech-recognition (ASR), and text-to-speech (TTS) capabilities."
+python,https://github.com/openai/whisper,"72,050",Robust Speech Recognition via Large-Scale Weak Supervision
+python,https://github.com/Acly/krita-ai-diffusion,"7,077","Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required."
+python,https://github.com/huggingface/transformers,"135,999","🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX."
+python,https://github.com/jianchang512/clone-voice,"7,691","A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频"
+python,https://github.com/vladmandic/automatic,"5,796",SD.Next: Advanced Implementation Generative Image Models
+python,https://github.com/t41372/Open-LLM-VTuber,"1,360","Talk to any LLM with hands-free voice interaction, voice interruption, Live2D taking face, and long-term memory running locally across platforms"
+python,https://github.com/fixie-ai/ultravox,"1,417",A fast multimodal LLM for real-time voice
+python,https://github.com/AgentOps-AI/agentops,"2,192","Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen"
+python,https://github.com/danswer-ai/danswer,"10,775",Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
+python,https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix,"23,133",Image-to-Image Translation in PyTorch
+python,https://github.com/gradio-app/gradio,"34,112","Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!"
+python,https://github.com/Marker-Inc-Korea/AutoRAG,"2,763",AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation
+python,https://github.com/yisol/IDM-VTON,"3,944",[ECCV2024] IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild
+python,https://github.com/NVIDIA/bionemo-framework,155,BioNeMo Framework: For building and adapting AI models in drug discovery at scale
+python,https://github.com/huggingface/text-generation-inference,"9,419",Large Language Model Text Generation Inference
+python,https://github.com/microsoft/graphrag,"20,453",A modular graph-based Retrieval-Augmented Generation (RAG) system
+python,https://github.com/feast-dev/feast,"5,668",The Open Source Feature Store for Machine Learning
+python,https://github.com/superlinear-ai/raglite,515,🥤 RAGLite is a Python toolkit for Retrieval-Augmented Generation (RAG) with PostgreSQL or SQLite
+python,https://github.com/Zeyi-Lin/HivisionIDPhotos,"13,473",⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
+python,https://github.com/geekan/MetaGPT,"45,682","🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming"
+python,https://github.com/BerriAI/litellm,"15,065","Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]"
+python,https://github.com/mlflow/mlflow,"18,818",Open source platform for the machine learning lifecycle
+python,https://github.com/cvat-ai/cvat,"12,646","Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale."
+python,https://github.com/infiniflow/ragflow,"25,293",RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+python,https://github.com/1Panel-dev/MaxKB,"11,518",🚀 MaxKB 是一款基于大语言模型和 RAG 的开源知识库问答系统，广泛应用于智能客服、企业内部知识库、学术研究与教育等场景。
+python,https://github.com/Huanshere/VideoLingo,"8,281","Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组"
+python,https://github.com/huggingface/diffusers,"26,601",🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
+python,https://github.com/huggingface/lerobot,"7,602",🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
+python,https://github.com/zhayujie/chatgpt-on-wechat,"31,383",基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT-o1/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
+python,https://github.com/X-PLUG/mPLUG-DocOwl,"1,904",mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding
+python,https://github.com/Agenta-AI/agenta,"1,616","The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place."
+python,https://github.com/zenml-io/zenml,"4,247",ZenML 🙏: The bridge between ML and Ops.https://zenml.io.
+python,https://github.com/harry0703/MoneyPrinterTurbo,"18,894",利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+python,https://github.com/meta-llama/llama-models,"5,270",Utilities intended for use with Llama models.
+python,https://github.com/exo-explore/exo,"17,199",Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+python,https://github.com/unslothai/unsloth,"18,464","Finetune Llama 3.2, Mistral, Phi, Qwen 2.5 & Gemma LLMs 2-5x faster with 80% less memory"
+python,https://github.com/google/oss-fuzz-gen,971,LLM powered fuzzing via OSS-Fuzz.
+python,https://github.com/ansible/ansible,"63,056","Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com."
+python,https://github.com/pytorch/torchtitan,"2,746",A native PyTorch Library for large model training
+python,https://github.com/NVIDIA/NeMo,"12,422","A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)"
+python,https://github.com/OpenGVLab/InternVL,"6,344",[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o. 接近GPT-4o表现的开源多模态对话模型
+python,https://github.com/run-llama/llama_parse,"3,222",Parse files for optimal RAG
+python,https://github.com/mindsdb/mindsdb,"26,739",The platform for building AI from enterprise data
